@@ -37,7 +37,7 @@
     }
 
     h2 {
-      font-size: 22px;
+      font-size: 20px;
       color: #160707;
       margin: 0 0 20px;
       padding: 0;
@@ -79,10 +79,10 @@
     }
 
     .footer {
-      text-align: center;
+      text-align: left;
       font-size: 12px;
       color: #999999;
-      margin-top: 30px;
+      margin-top: 10px;
       padding: 10px;
     }
   </style>
@@ -94,18 +94,17 @@
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <h1>EGYM Genius – Here's What's New!</h1>
-<p style="font-size:15px; color:#160707; margin:0 0 10px;">    
-      We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next. </p>
-<p style="font-size:13px; color:#160707; margin:0 0 10px;"><em>Please note that it is necessary for the BMA or the Trainer App to be up to date.</em></p>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+      We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next. Please note that it is necessary for the BMA or the Trainer App to be up to date.</p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 0px 0;"></td></tr>
 </table>
 <h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Minimizable Rest Timer</h2>
-<p style="font-size:15px; color:#160707; margin:0 0 10px;">
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
  We’ve redesigned the timer interface to provide more flexibility and interaction during rest periods. This feature is available across the entire EGYM Ecosystem.
 
 
-<ul style="font-size:15px; color:#160707; padding-left:20px; margin:10px 0;">
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
 <li>Minimize the timer and still interact with the workout screen</li>
 <li>Countdown remains visible even when minimized</li>
 <li>Get notified when rest time ends – even with screen locked</li>
@@ -118,7 +117,7 @@
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Activity Preference Model</h2>
-<p style="font-size:15px; color:#160707; margin:0 0 10px;">
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
   Members want training plans that truly reflect their goals and life stage. Less experienced members have different needs than more experienced ones – and Genius now recognizes that even better.<br/>
 <br/>The new Activity Preference Model makes your workout programming smarter than ever. Using billions of Smart Strength data points, Genius identifies which exercises have worked best for different groups and recommends them automatically – based on demographics, fitness goals, preferred or skipped exercises, and patterns from similar users.<br/>
 <br/>The result:<br/>
@@ -129,21 +128,21 @@ Training plans that feel personal, motivating, and more effective than ever. You
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">More variety thanks to smart exercise similarity</h2>
-<p style="font-size:15px; color:#160707; margin:0 0 10px;">
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
 Members looking for more workout variety are in luck. We’ve improved the AI logic to automatically suggest alternative and complementary exercises when a workout includes duplicates. 
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
 <h2>What’s Coming Next?</h2>
-<ul style="font-size:15px; color:#160707; padding-left:20px; margin:10px 0;">
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
 <li>Customizable fitness goal composition. Enable users to adjust the ratio of strength, cardio, and mobility components in their training plan.</li><br/>
 <li>Clarified weight guidance. A new UX element will help users better understand how Genius recommends weights and what to expect from initial estimates.</li>
 </ul>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-  <p style="font-size:15px; color:#160707; margin:0 0 10px;">
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 If you have any questions or feedback, feel free to contact our support team. We will keep you informed about further improvements in the future.<br/>
 <br/>Your EGYM Team
 </p>
@@ -151,8 +150,8 @@ If you have any questions or feedback, feel free to contact our support team. We
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
 <div class="footer">
- <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; padding: 0 10px"/>
-<p style="font-size:12px; color:#160707; margin:20 0 0px;">EGYM SE, Einsteinstraße 172, 81677 München<br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/>
+<p style="font-size:12px; color:#160707; margin:30 0 0 0px;">EGYM SE, Einsteinstraße 172, 81677 München<br/>
       Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
       Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
 </div>
