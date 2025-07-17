@@ -1,5 +1,3 @@
-
-
 <div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
 </div>
 <html lang="en">
@@ -95,11 +93,12 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h1>Genius – Here's What's New!</h1>
+<h1>EGYM Genius – Here's What's New!</h1>
 <p style="font-size:15px; color:#160707; margin:0 0 10px;">    
       We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next. </p>
+<p style="font-size:13px; color:#160707; margin:0 0 10px;"><em>Please note that it is necessary for the BMA or the Trainer App to be up to date.</em></p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+<tr><td style="border-top: 1px solid #ffffff; padding: 0px 0;"></td></tr>
 </table>
 <h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Minimizable Rest Timer</h2>
 <p style="font-size:15px; color:#160707; margin:0 0 10px;">
@@ -114,21 +113,7 @@
 <li>Dedicated pause button</li>
 </ul>
 </p>
-</div>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/egym-genius-minimizable-rest-timer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
-</table>
-<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Better rep guidance for unilateral and alternating movements</h2>
-<p style="font-size:15px; color:#160707; margin:0 0 10px;">
-  To give members better guidance, Genius now explains how to count reps in unilateral and alternating exercises – how many reps are expected per side.
-
-  <ul style="font-size:15px; color:#160707; padding-left:20px; margin:10px 0;">
-<li>Unilateral exercises (e.g. single-arm kettlebell swings): Reps are now shown per side</li>
-<li>Alternating exercises (e.g. alternating bicep curls): Reps are shown alternating</li>
-</ul>
-</p>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/egym-genius-rep-guidance-unilateral-movements.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-minimizable-rest-timer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
@@ -139,9 +124,16 @@
 <br/>The result:<br/>
 Training plans that feel personal, motivating, and more effective than ever. Your team can coach smarter with less manual work.
 </p>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/egym-genius-activity-preference-model.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-activity-preference-model.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">More variety thanks to smart exercise similarity</h2>
+<p style="font-size:15px; color:#160707; margin:0 0 10px;">
+Members looking for more workout variety are in luck. We’ve improved the AI logic to automatically suggest alternative and complementary exercises when a workout includes duplicates. 
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
 <h2>What’s Coming Next?</h2>
 <ul style="font-size:15px; color:#160707; padding-left:20px; margin:10px 0;">
@@ -151,8 +143,16 @@ Training plans that feel personal, motivating, and more effective than ever. You
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
+  <p style="font-size:15px; color:#160707; margin:0 0 10px;">
+If you have any questions or feedback, feel free to contact our support team. We will keep you informed about further improvements in the future.<br/>
+<br/>Your EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
 <div class="footer">
-<p style="font-size:12px; color:#160707; margin:0 0 10px;">EGYM SE, Einsteinstraße 172, 81677 München<br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; padding: 0 10px"/>
+<p style="font-size:12px; color:#160707; margin:20 0 0px;">EGYM SE, Einsteinstraße 172, 81677 München<br/>
       Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
       Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
 </div>
