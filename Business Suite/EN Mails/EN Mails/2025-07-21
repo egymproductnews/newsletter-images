@@ -1,0 +1,154 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 20px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 20px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 16px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+<img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/business-suite-eap-header.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h1>Welcome to the EGYM Business Suite Early Access Program!</h1>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+     As early adopters, you’re the first to explore the new EGYM Business Suite.<br/> The platform is now yours - use your data, gain insights, stay ahead! <br/> <br/> Throughout the entire EAP, we’ll be releasing regular updates. You’ll get early access to new features and improvements and your feedback will directly influence what gets built next.<br/> <br/>Thank you for being part of the team.<br/> The future is here and it’s data-driven.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 0px 0;"></td></tr>
+</table>
+<h2 style="font-size:22px; color:#160707; margin:20px 0; font-weight:bold;">Here’s what’s coming next</h2>
+  <h2 style="font-size:18px; color:#160707; margin:20px 0; font-weight:bold;">Distinct Workout Days on Smart Strength</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Workouts on Smart Strength machines will now be grouped and displayed by individual days, making it easier to track training frequency and patterns over time.
+</p>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/egym-business-suite-mitglieder.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Reduced Strength BioAge (in %)</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+  As your members improve their strength, their Strength BioAge decreases. You’ll gain insights into how much younger their Strength BioAge is compared to their actual age — clearly shown as a percentage change.<br/>
+</p>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/egym-business-suite-mitglieder.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;"> Total of Open Trainer Tasks</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+A new overview will show the total number of open trainer tasks, helping staff stay organized and focused on what needs attention.
+</p>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/egym-business-suite-mitglieder.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>EAP Qick Links</h2>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li><br/>
+<li><a href="https://drive.google.com/drive/folders/1WNXjN2xKgCLwPK8XFNB5NjEO3qXGyEPE" >Analytics Guide</a></li><br/>
+</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Your feedback helps us improve  ❤️</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+We’re always improving based on what matters to you. <br/>Got feedback or ideas? Share them on Productboard.<br/>
+   <a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" class="cta-button">Feedback</a>
+<br/>Thanks for helping make EGYM Business Suite better - more updates coming soon!<br/>
+<br/>Your EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/>
+<p style="font-size:12px; color:#160707; margin:30 0 0 0px;">EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
