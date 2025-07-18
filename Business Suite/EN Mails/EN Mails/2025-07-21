@@ -31,7 +31,7 @@
     }
 
     h1 {
-      font-size: 24px;
+      font-size: 40px;
       color: #160707;
       margin: 0 0 20px;
       padding: 0;
@@ -92,45 +92,50 @@
 </head>
 <body>
 <div class="email-container">
+  <h1>Welcome to EGYM Business Suite Early Access Program!</h1>
 <img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/business-suite-eap-header.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h1>Welcome to the EGYM Business Suite Early Access Program!</h1>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-     As early adopters, you’re the first to explore the new EGYM Business Suite.<br/> The platform is now yours - use your data, gain insights, stay ahead! <br/> <br/> Throughout the entire EAP, we’ll be releasing regular updates. You’ll get early access to new features and improvements and your feedback will directly influence what gets built next.<br/> <br/>Thank you for being part of the team.<br/> The future is here and it’s data-driven.</p>
+     As early adopters, you’re the first to explore the new EGYM Business Suite.<br/> The platform is now yours - use your data, gain insights, stay ahead! <br/> <br/> Throughout the entire EAP, we’ll be releasing regular updates. You’ll get early access to new features and improvements and your feedback will directly influence what gets built next.<br/> <br/>Thank you for being part of the team - let’s make gym management smarter, powered by data.</p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 0px 0;"></td></tr>
 </table>
 <h2 style="font-size:22px; color:#160707; margin:20px 0; font-weight:bold;">Here’s what’s coming next</h2>
-  <h2 style="font-size:18px; color:#160707; margin:20px 0; font-weight:bold;">Distinct Workout Days on Smart Strength</h2>
+  <h2 style="font-size:18px; color:#160707; margin:20px 0; font-weight:bold;">Year-over-Year Insights</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Workouts on Smart Strength machines will now be grouped and displayed by individual days, making it easier to track training frequency and patterns over time.
+We understand how valuable year-to-year comparisons are for making informed business decisions. In addition to the existing 1-, 3-, and 6-month views, you will have access to a full 12-month overview, complete with monthly breakdowns - giving you a clearer, more actionable view of long-term trends and performance.
+
 </p>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/egym-business-suite-mitglieder.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/yearly-overview.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Reduced Strength BioAge (in %)</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-  As your members improve their strength, their Strength BioAge decreases. You’ll gain insights into how much younger their Strength BioAge is compared to their actual age — clearly shown as a percentage change.<br/>
+  As your members improve their strength, their Strength BioAge decreases. You’ll gain insights into how much younger their Strength BioAge is compared to their actual age - clearly shown as a percentage change.<br/>
 </p>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/egym-business-suite-mitglieder.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;"> Total of Open Trainer Tasks</h2>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;"> More Visibility into Trainer Tasks</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-A new overview will show the total number of open trainer tasks, helping staff stay organized and focused on what needs attention.
+We’ll introduced a new overview that shows the total number of open trainer tasks, giving you a quick and clear view of your team’s performance.<br/> You be fully in control:
+  <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Create and assign new tasks directly in the task chains</li>
+<li>Manage existing tasks </li>
+<li>Monitor progress</li>
+</ul>
 </p>
-  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/egym-business-suite-mitglieder.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-<h2>EAP Qick Links</h2>
+<h2>EAP - Your complete toolkit</h2>
 <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
 <li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li><br/>
 <li><a href="https://drive.google.com/drive/folders/1WNXjN2xKgCLwPK8XFNB5NjEO3qXGyEPE" >Analytics Guide</a></li><br/>
+<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Feedback</a></li><br/>
 </ul>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
