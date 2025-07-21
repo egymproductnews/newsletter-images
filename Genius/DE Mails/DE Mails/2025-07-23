@@ -1,0 +1,159 @@
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Email Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 20px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 20px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 16px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 10px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+<h1>EGYM Genius – Das ist neu!</h1>
+<img alt="Header Image" class="header-image" src="https://de.egym.com/sites/default/files/2025-05/HeroMedium_LP_GENIUS_EN_mobilex2.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+      Wir freuen uns, dir die neuesten Verbesserungen von EGYM Genius vorzustellen. Hier ist ein kurzer Überblick darüber, was sich seit dem letzten Update geändert hat – und ein kleiner Ausblick auf das, was als Nächstes kommt. <br/><br/>Bitte beachte: Um das Update sehen zu können, müssen die BMA oder die Trainer App auf dem neuesten Stand sein.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 0px 0;"></td></tr>
+</table>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Minimierbarer Rest-Timer</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+ Wir haben die Timer-Oberfläche neu gestaltet, um während der Pausen mehr Flexibilität und Interaktion zu ermöglichen. Diese Funktion ist im gesamten EGYM Ökosystem verfügbar.
+
+
+
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Timer minimieren und trotzdem mit dem Trainingsbildschirm interagieren</li>
+<li>Countdown bleibt auch im minimierten Zustand sichtbar</li>
+<li>Benachrichtigung, wenn die Pause endet – auch bei gesperrtem Bildschirm</li>
+<li>Schnelle +/-10-Sekunden-Tasten für spontane Anpassungen</li>
+<li>Pause-Button</li>
+</ul>
+</p>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-minimizable-rest-timer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Activity Preference Model</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+ Mitglieder wünschen sich Trainingspläne, die wirklich zu ihren Zielen und ihrer Lebenssituation passen. Weniger erfahrene Mitglieder haben andere Bedürfnisse als erfahrene – und Genius erkennt das jetzt noch besser.<br/>
+<br/>Das neue Activity Preference Model macht deine Trainingsplanung intelligenter denn je. Mithilfe von Milliarden Smart Strength-Datenpunkten erkennt Genius, welche Übungen für welche Gruppen am besten funktionieren, und empfiehlt diese automatisch – basierend auf demografischen Daten, Fitnesszielen, bevorzugten oder übersprungenen Übungen sowie Mustern ähnlicher Nutzer.<br/>
+<br/>Das Ergebnis:<br/>
+Trainingspläne, die sich persönlicher, motivierender und effektiver anfühlen als je zuvor. Dein Team kann mit weniger manuellem Aufwand smarter coachen.
+</p>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-activity-preference-model.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Mehr Abwechslung dank intelligenter Übungsvariabilität</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Mitglieder, die sich mehr Abwechslung im Training wünschen, dürfen sich freuen. Wir haben die KI-Logik verbessert, sodass bei doppelten Übungen automatisch alternative und ergänzende Übungen vorgeschlagen werden.
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>Was kommt als Nächstes?</h2>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Anpassbare Zielzusammensetzung: Nutzer können das Verhältnis von Kraft-, Ausdauer- und Mobilitätsanteilen im Trainingsplan individuell einstellen.</li><br/>
+<li>Transparente Gewichtsempfehlungen: Ein neues UX-Element hilft Nutzern besser zu verstehen, wie Genius Gewichte empfiehlt und was sie von den ersten Schätzungen erwarten können.</li>
+</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wenn du Fragen oder Feedback hast, wende dich gerne an unser Support-Team. Wir halten dich über weitere Verbesserungen auf dem Laufenden.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/>
+<p style="font-size:12px; color:#160707; margin:30 0 0 0px;">EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
