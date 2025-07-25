@@ -99,38 +99,35 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 0px 0;"></td></tr>
 </table>
-<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Minimierbarer Rest-Timer</h2>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Pausentimer minimieren</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
- Wir haben die Timer-Oberfläche neu gestaltet, um während der Pausen mehr Flexibilität und Interaktion zu ermöglichen. Diese Funktion ist im gesamten EGYM Ökosystem verfügbar.
-
-
-
+ Wir haben die Benutzeroberfläche des Pausentimers überarbeitet, sodass er jetzt mehr Einstellungsoptionen hat. Diese Funktion ist über das gesamte EGYM-Ökosystem hinweg verfügbar.
 <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
-<li>Timer minimieren und trotzdem mit dem Trainingsbildschirm interagieren</li>
-<li>Countdown bleibt auch im minimierten Zustand sichtbar</li>
-<li>Benachrichtigung, wenn die Pause endet – auch bei gesperrtem Bildschirm</li>
-<li>Schnelle +/-10-Sekunden-Tasten für spontane Anpassungen</li>
-<li>Pause-Button</li>
+<li>Während der Pause kann der Timer minimiert werden, sodass man weiterhin mit dem Workout-Bildschirm interagieren kann.</li>
+<li>Der Countdown bleibt auch im minimierten Zustand sichtbar.</li>
+<li>Benachrichtigung bei Pausenende, selbst bei gesperrtem Bildschirm.</li>
+<li>+/- 10-Sekunden-Tasten zur flexiblen Anpassung der Pausenzeit</li>
+<li>Pause-Button, um den Timer zwischenzeitlich zu stoppen</li>
 </ul>
 </p>
 <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-minimizable-rest-timer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Activity Preference Model</h2>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Smarte Trainingspläne mit dem Activity Preference Model</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
- Mitglieder wünschen sich Trainingspläne, die wirklich zu ihren Zielen und ihrer Lebenssituation passen. Weniger erfahrene Mitglieder haben andere Bedürfnisse als erfahrene – und Genius erkennt das jetzt noch besser.<br/>
-<br/>Das neue Activity Preference Model macht deine Trainingsplanung intelligenter denn je. Mithilfe von Milliarden Smart Strength-Datenpunkten erkennt Genius, welche Übungen für welche Gruppen am besten funktionieren, und empfiehlt diese automatisch – basierend auf demografischen Daten, Fitnesszielen, bevorzugten oder übersprungenen Übungen sowie Mustern ähnlicher Nutzer.<br/>
+ Mitglieder wünschen sich Trainingspläne, die wirklich zu ihren Zielen und ihrem Alltag passen. Auch weniger erfahrene Mitglieder haben meist andere Anforderungen als erfahrene – und Genius erkennt das jetzt noch besser.<br/>
+<br/>Das neue Activity Preference Model macht deine Trainingsplanung smart wie nie zuvor. Mithilfe von Milliarden Smart-Strength-Datenpunkten identifiziert Genius, welche Übungen für verschiedene Gruppen am besten funktioniert haben, und empfiehlt sie automatisch – basierend auf demografischen Merkmalen, Trainingszielen, bevorzugten oder übersprungenen Übungen sowie Mustern ähnlicher Nutzer.<br/>
 <br/>Das Ergebnis:<br/>
-Trainingspläne, die sich persönlicher, motivierender und effektiver anfühlen als je zuvor. Dein Team kann mit weniger manuellem Aufwand smarter coachen.
+Maßgeschneiderte Trainingspläne, motivierend und effektiv wie nie  zuvor. Und dein Team kann smarter coachen – mit weniger manuellem Aufwand.
 </p>
 <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/DE%20Mails/DE%20Images/egym-genius-activity-preference-model-de.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Mehr Abwechslung dank intelligenter Übungsvariabilität</h2>
+<h2 style="font-size:20px; color:#160707; margin:10px 0; font-weight:bold;">Mehr Abwechslung im Training –  Doppelungen werden smart erkannt</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Mitglieder, die sich mehr Abwechslung im Training wünschen, dürfen sich freuen. Wir haben die KI-Logik verbessert, sodass bei doppelten Übungen automatisch alternative und ergänzende Übungen vorgeschlagen werden.
+Gute Nachrichten für alle, die sich mehr Abwechslung im Trainingsplan wünschen: Wir haben die KI-Logik verbessert, sodass bei sich wiederholenden Übungen im Trainingsplan automatisch alternative und ergänzende Übungen vorgeschlagen werden.
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
