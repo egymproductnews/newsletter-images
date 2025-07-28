@@ -100,14 +100,15 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>Welcome to EGYM Business Suite Early Access Program!</h1>
+  <h1>EGYM Business Suite<br/> See what’s happening! </h1>
 <img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/business-suite-eap-header.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-    <h3>You're First. Take Advantage.</h3>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-    As early adopters, you’re the first to have exclusive access to the new EGYM Business Suite. The platform is now yours - use your data, gain insights, stay ahead! <br/> <br/> With the EGYM Business Suite, you can: 
+   It’s been a few weeks since the EAP started, and we’d like to share the latest updates. Here’s what’s been improved so far, and what you can expect next. <br/>
+      <h3>You're first. Take advantage.</h3>
+As early adopters, you have exclusive access to the new EGYM Business Suite. The platform is now yours - use your data, gain insights, stay ahead! <br/> <br/> With the EGYM Business Suite, you can: 
    <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
 <li> See who your EGYM members are and how they train.</li>
 <li>Create trainer tasks and track team productivity.</li>
@@ -117,68 +118,57 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>   
-<h3>EAP: What can you expect?</h3>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h3>Here's what has already been improved</h3>
+<h4>Member and Trainer Profiles - deeper insights, better control</h4>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+We've improved both member and trainer profile pages, giving you relevant member details and greater control over trainer roles. <br/><br/>
+<b>Members</b><br/>
+View your members’ contact details and contract end dates. If a contract is ending soon, reach out to stay connected. When a member is no longer active part of your club, you can easily remove them to keep your member list current and organized. <br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/member-profile-page.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+  <br/>
+<b>Trainers</b><br/>
+Trainer roles are fully flexible. You can grant or remove trainer rights at any time. Once trainer rights are removed, the account automatically returns to regular member status  - ideal for managing your coaching staff as roles change.
+</p>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/add-trainer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Last visited location page is set as default upon return</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+  Managing multiple locations? <br/>EGYM Business Suite now remembers the last location page you visited and automatically sets it as your default. Previously, upon every new login you'd land on top of an alphabetical list, regardless of where you left off. Now, when you log in, you’ll land directly on your last visited location page. 
+<br/><br/>
+Your default location remains set across all devices, giving you the flexibility to switch between them as needed.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h3>EAP What to expect next</h3>
 <h4>You'll be first to know</h4>
 <p style="font-size:14px; color:#160707; margin:0 0 0px;">    
 Throughout the entire program, we’ll be releasing regular product updates. You’ll get early access to new features and improvements, and we’ll always keep you up to date - giving you the edge.<br/><br/>
-<h4>Share your feedback </h4>
+<h4>Talk to us and share your feedback </h4>
 <p style="font-size:14px; color:#160707; margin: 0 0 0px;">    
 Our mission is to make you successful. We want to understand your challenges and help you solve them. Your feedback will contribute to what gets built next. As part of the EAP, you'll soon have the chance to speak directly with our product team and share your thoughts.
 </p><br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-<h3>Here's what has already been improved</h3>
-<h4>Manage Member and Trainer Profiles</h4>
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We've improved both member and trainer profile pages, giving you more insights and better control. <br/><br/>
-<b>Members</b><br/>
-View your members’ contact details and contract end dates. If a contract is ending soon, reach out to stay connected. When a member is no longer active part of your club, you can easily remove them to keep your member list current and organized.
-  <br/><br/>
-<b>Trainers</b><br/>
-Trainer roles are fully flexible. You can grant or remove trainer rights at any time. Once trainer rights are removed, the account automatically returns to regular member status  - ideal for managing your coaching staff as roles change.
-</p>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/yearly-overview.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
-</table>
-<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Last visited gym is set as default upon return</h2>
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Managing multiple gym locations? 
-Previously, each new every login would drop you at the top of an alphabetical list, no matter where you left off.<br/><br/>
-We've improved that. EGYM Business Suite now remembers the last location you visited and sets it as your default. So next time you log in, you’ll land directly on that location, no searching needed.
-  <br/><br/>
- On top, your default location is saved across all devices, giving you the freedom to switch between them as needed.
-</p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
-</table>
-<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;"> More Visibility into Trainer Tasks</h2>
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We’ll introduced a new overview that shows the total number of open trainer tasks, giving you a quick and clear view of your team’s performance.<br/> You'll be fully in control:
-  <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
-<li>Create and assign new tasks directly in the task chains</li>
-<li>Manage existing tasks </li>
-<li>Monitor progress</li>
-</ul>
-</p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
-</table>
-<h2>EAP: Your complete toolkit</h2>
+<h3>Your complete EAP toolkit</h3>
 <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
 <li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li><br/>
 <li><a href="https://drive.google.com/drive/folders/1WNXjN2xKgCLwPK8XFNB5NjEO3qXGyEPE" >Analytics Guide</a></li><br/>
-<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Feedback</a></li><br/>
+<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Share Feedback</a></li><br/>
 </ul>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-  <h2>Your feedback helps us improve  ❤️</h2>
+  <h3>Your feedback helps us improve </h3>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 We’re always improving based on what matters to you. <br/>Got feedback or ideas? Share them on Productboard.<br/>
    <a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" class="cta-button">Feedback</a>
-<br/>Thanks for helping make EGYM Business Suite better - more updates coming soon!<br/>
+<br/>Thanks for helping make EGYM Business Suite better - let's make the gym management smarter, powerde by data.  <br/>More updates coming soon!<br/>
 <br/>Your EGYM Team
 </p>
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
