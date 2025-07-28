@@ -142,9 +142,13 @@ Trainer roles are fully flexible. You can grant or remove trainer rights at any 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Reduced Strength BioAge (in %)</h2>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Last visited gym is set as default upon return</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-  As your members improve their strength, their Strength BioAge decreases. You’ll gain insights into how much younger their Strength BioAge is compared to their actual age - clearly shown as a percentage change.<br/>
+Managing multiple gym locations? 
+Previously, each new every login would drop you at the top of an alphabetical list, no matter where you left off.<br/><br/>
+We've improved that. EGYM Business Suite now remembers the last location you visited and sets it as your default. So next time you log in, you’ll land directly on that location, no searching needed.
+  <br/><br/>
+ On top, your default location is saved across all devices, giving you the freedom to switch between them as needed.
 </p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
