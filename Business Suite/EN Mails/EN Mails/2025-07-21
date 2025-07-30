@@ -126,8 +126,8 @@ As early adopters, you have exclusive access to the new EGYM Business Suite. The
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 We've improved both member and trainer profile pages, giving you relevant member details and greater control over trainer roles. <br/><br/>
 <b>Members</b><br/>
-View your members’ contact details and contract end dates. If a contract is ending soon, reach out to stay connected. When a member is no longer active part of your club, you can easily remove them to keep your member list current and organized. <br/><br/>
-  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/member-profile-page.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+View your members’ contact details and contract end dates. If a contract is ending soon, you might consider reaching out via email or phone to stay connected. When a member is no longer active part of your club, you can easily remove them to keep your member list current and organized. <br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/member-profile-page-bs.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
   <br/>
 <b>Trainers</b><br/>
 Trainer roles are fully flexible. You can grant or remove trainer rights at any time. Once trainer rights are removed, the account automatically returns to regular member status  - ideal for managing your coaching staff as roles change.
@@ -136,11 +136,12 @@ Trainer roles are fully flexible. You can grant or remove trainer rights at any 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Last visited location page is set as default upon return</h2>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Coming soon: Last visited location page is set as default upon return</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
   Managing multiple locations? <br/><br/>EGYM Business Suite now remembers the last location page you visited and automatically sets it as your default. Previously, upon every new login you'd land on top of an alphabetical list, regardless of where you left off. Now, when you log in, you’ll land directly on your last visited location page. 
 <br/><br/>
 This behavior stays consistent across all devices, giving you the flexibility to switch as needed.</p>
+<p><em>This update also goes live during the week of October 4–8, 2025.</em></p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
