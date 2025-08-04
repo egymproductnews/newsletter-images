@@ -100,7 +100,7 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>EAP - Book your Feedback Call now</h1>
+  <h1>New Insights and a chance to talk to the Product Team</h1>
 <img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/email-header-egym-business_suite.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
@@ -124,20 +124,20 @@ It’s not just about reporting bugs, but about telling us how it feels to use E
 </li>
   </ul> 
     <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
-If you're interested, feel free to book your slot now.<br/>
+If you're interested, book your slot now.<br/>
          <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot now</a><br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
 <h2>What's new</h2>
-<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Monitor onboarding progress with "Show new users"</h3>
+<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Monthly New Users </h3>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 Thanks to your feedback, we’ve made improvements to the Active product user chart.
 The new “Show new users” option highlights how many members started using your EGYM products for the first time each month.
  <br/><br/>
-This visualization gives you a clear view of how your EGYM user base evolves over time. It highlights not only overall growth but also how many of your active users are newcomers. <br/>
+The Active product user metric offers a clear view of how your EGYM user base evolves over time. It displays both total monthly active users and the number of newcomers among them - providing insight into new user acquisition. <br/>
 <br/>
-    <em>Go to: Analytics > Active product users > Select: Show new users </em><br/>
+  Tip: While a rise in new users may signal effective acquisition, sustained growth depends on how well those users are retained and how actively they engage with your products over time.<br/>
 
     <b><br/> Why is it important?</b>
    <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
@@ -147,6 +147,8 @@ This visualization gives you a clear view of how your EGYM user base evolves ove
 <li>Spot seasonal trends and adjust your strategy accordingly</li>
 <li>Compare growth month over month</li>
   </ul> 
+      <em>Go to: Analytics > Active product users > Select: Show new users </em><br/><br/>
+
   <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/member-profile-page-bs.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
   <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
