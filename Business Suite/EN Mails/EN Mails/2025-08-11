@@ -1,1 +1,193 @@
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
 
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>EAP - Book your Feedback Call now</h1>
+<img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/email-header-egym-business_suite.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+As early adopters, you play an important role. By testing pre-release versions and sharing your feedback, you directly influence what gets built next. We don’t rely on guesswork, we trust your expertise. 
+ <br/>
+      <h2>Join 1:1 feedback call</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
+This session is your chance to share honest feedback with the Product Team.
+It’s not just reporting bugs, it’s about telling us how it feels to work with EGYM Business Suite, what you need, and what you’d improve.
+ <br/>
+   <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot</a><br/>
+    <b><br/> What can you expect</b>
+   <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Duration: 45 min</li>
+<li>Format: Video call with product team</li>
+<li>Purpose: To learn from your experience</li>
+     <li><b>Bonus:</b> You’ll get a first look at new analytics prototypes!
+
+</li>
+  </ul> 
+    <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
+ Spots are limited - first come, first served!<br/>
+         <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot now</a><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>Here's what has already been improved</h2>
+<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Member and Trainer Profiles - deeper insights, better control</h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+We've improved both member and trainer profile pages, giving you relevant member details and greater control over trainer roles. <br/><br/>
+<b>Members</b><br/>
+View your members’ contact details and contract end dates. If a contract is ending soon, you might consider reaching out via email or phone to stay connected. When a member is no longer active part of your club, you can easily remove them to keep your member list current and organized. <br/><br/>
+  <em>Go to: Members & staff > Members </em>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/member-profile-page-bs.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+  <br/>
+<b>Trainers</b><br/>
+Trainer roles are fully flexible. You can grant or remove trainer rights at any time. Once trainer rights are removed, the account automatically returns to regular member status  - ideal for managing your coaching staff as roles change. <br/><br/>
+  <em>Go to: Members & staff > Staff </em></p>
+<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/add-trainer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Coming soon: Last visited location page is set as default upon return</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+  Managing multiple locations? <br/><br/>EGYM Business Suite now remembers the last location page you visited and automatically sets it as your default. Previously, upon every new login you'd land on top of an alphabetical list, regardless of where you left off. Now, when you log in, you’ll land directly on your last visited location page. 
+<br/><br/>
+This behavior stays consistent across all devices, giving you the flexibility to switch as needed.</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>EAP What to expect next</h2>
+<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">You'll be first to know</h3>
+<p style="font-size:14px; color:#160707; margin:0 0 0px;">    
+Throughout the entire program, we’ll be releasing regular product updates. You’ll get early access to new features and improvements, and we’ll always keep you up to date - giving you the edge.<br/><br/>
+<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Talk to us and share your feedback </h3>
+<p style="font-size:14px; color:#160707; margin: 0 0 0px;">    
+Our mission is to make you successful. We want to understand your challenges and help you solve them. Your feedback will contribute to what gets built next. As part of the EAP, you'll soon have the chance to speak directly with our product team and share your thoughts.
+</p><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>Your complete EAP toolkit</h2>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li>
+<li><a href="https://drive.google.com/drive/folders/1WNXjN2xKgCLwPK8XFNB5NjEO3qXGyEPE" >Analytics Guide</a></li>
+<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Share Feedback</a></li>
+</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Share your feedback now!</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Got feedback or ideas? Share them on Productboard.<br/><br/>
+   <a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" class="cta-button">Share Feedback</a><br/>
+<br/>Thanks for being part of the team - more updates coming soon!<br/>
+<br/>Your EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+  You are receiving this email because you are part of the EGYM Business Suite Early Access Program.
+If you have any questions, please reach out to your Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
