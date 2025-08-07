@@ -1,0 +1,181 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 20px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>New User Insights and a chance to talk to the Product Team!</h1>
+<img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/email-header-egym-business_suite.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+As early adopters, you play an important role. By testing pre-release versions and sharing your feedback, you directly influence what gets built next. We don’t rely on guesswork, we trust your expertise. 
+ <br/>
+      <h2>Join 1:1 feedback call</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
+You've been exploring the new EGYM Business Suite for a while now, and your opinion truly matters to us. Got thoughts, feedback, or ideas? We'd love to hear them!
+ <br/><br/> Join a 1:1 session with the Product Team to share how it really feels to use the platform. 
+Tell us what’s useful, what’s not, and what you need most. Now's your chance to make an impact.
+ <br/>
+   <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot</a>
+    <b><br/> What can you expect</b>
+   <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Duration:  45 minutes</li>
+<li>Format: Video call with product team</li>
+<li>Purpose: To better understand your needs for analytics solutions</li>
+     <li><b>Bonus:</b> You’ll get a first look at new analytics!
+
+</li>
+  </ul> 
+    <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
+Interested? Book your slot now.<br/>
+         <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot now</a><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>What's new</h2>
+<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Monthly New Users </h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Thanks to your feedback, we’ve made improvements to the Active product users chart.
+The new “Show new users” option highlights how many members started using your EGYM products for the first time each month.
+ <br/><br/>
+The Active product users metric offers a clear view of how your EGYM user base evolves over time. It displays both total monthly active users and the number of newcomers among them - providing insight into user activity and new user acquisition. <br/>
+    <b><br/> Why is it important?</b>
+   <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>See how many members started using EGYM for the first time</li>
+<li>Identify which EGYM products attract the most new users</li>
+<li>Spot opportunities to introduce members to new offerings</li>
+<li>Spot seasonal trends and adjust your strategy accordingly</li>
+<li>Compare growth month over month</li>
+  </ul> 
+<p style="font-size:14px; color:#160707; margin:0 0 10px;"> 
+  Tip: While a rise in new users may signal effective acquisition, sustained growth depends on how well those users are retained and how actively they engage with your products over time.<br/><br/>
+      <em>Gehe zu: Analysen > Aktive Produktnutzer > Klicke auf: Neue Nutzer anzeige </em><br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/DE%20Mails/DE%20Images/show-new-users-de.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+  <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>Dein komplettes EAP-Toolkit</h2>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li>
+<li><a href="https://drive.google.com/file/d/1SPpKaduDne-sKu6E2dXOP6jmpy9HqNs1/view?usp=sharing" >Leitfaden für EGYM Business Suite Analytics </a></li>
+<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Feedback geben</a></li>
+</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Feedback-Call schon gebucht? <br/>Klasse, danke dir! Wir freuen uns auf den Austausch mit dir.<br/>
+<br/>Weitere Updates folgen in Kürze.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+ Du erhältst diese E-Mail, weil du Teil des EGYM Business Suite Early Access Programms bist. Bei Fragen wende dich bitte an deinen Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
