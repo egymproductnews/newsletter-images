@@ -106,7 +106,7 @@
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-As early adopters, you play an important role. By testing pre-release versions and sharing your feedback, you directly influence what gets built next. We don’t rely on guesswork, we trust your expertise. 
+As early adopters, you play an important role. By testing pre-release versions and sharing your feedback, you directly influence what gets built next. We value your experience and trust your expertise.
  <br/>
       <h2>Join 1:1 feedback call</h2>
   <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
@@ -114,7 +114,7 @@ You've been exploring the new EGYM Business Suite for a while now, and your opin
  <br/><br/> Join a 1:1 session with the Product Team to share how it really feels to use the platform. 
 Tell us what’s useful, what’s not, and what you need most. Now's your chance to make an impact.
  <br/>
-   <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot</a>
+   <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Book your slot</a>
     <b><br/> What can you expect</b>
    <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
 <li>Duration:  45 minutes</li>
@@ -126,7 +126,7 @@ Tell us what’s useful, what’s not, and what you need most. Now's your chance
   </ul> 
     <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
 Interested? Book your slot now.<br/>
-         <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" class="cta-button">Book your slot now</a><br/>
+         <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Book your slot now</a><br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
@@ -136,6 +136,7 @@ Interested? Book your slot now.<br/>
 Thanks to your feedback, we’ve made improvements to the Active product users chart.
 The new “Show new users” option highlights how many members started using your EGYM products for the first time each month.
  <br/><br/>
+  <b><br/>  Active product users</b><br/>
 The Active product users metric offers a clear view of how your EGYM user base evolves over time. It displays both total monthly active users and the number of newcomers among them - providing insight into user activity and new user acquisition. <br/>
     <b><br/> Why is it important?</b>
    <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
