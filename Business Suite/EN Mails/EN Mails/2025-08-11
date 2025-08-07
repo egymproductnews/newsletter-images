@@ -135,7 +135,7 @@ Interested? Book your slot now.<br/>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 Thanks to your feedback, we’ve made improvements to the Active product users chart.
 The new “Show new users” option highlights how many members started using your EGYM products for the first time each month.
- <br/><br/>
+ <br/>
   <b><br/>  Active product users</b><br/>
 The Active product users metric offers a clear view of how your EGYM user base evolves over time. It displays both total monthly active users and the number of newcomers among them - providing insight into user activity and new user acquisition. <br/>
     <b><br/> Why is it important?</b>
@@ -149,7 +149,7 @@ The Active product users metric offers a clear view of how your EGYM user base e
 <p style="font-size:14px; color:#160707; margin:0 0 10px;"> 
   Tip: While a rise in new users may signal effective acquisition, sustained growth depends on how well those users are retained and how actively they engage with your products over time.<br/><br/>
       <em>Go to: Analytics > Active product users > Select: Show new users </em><br/><br/>
-  <img alt="preview Image" class="header-image" src="https://github.com/egymproductnews/newsletter-images/blob/main/Business%20Suite/EN%20Mails/EN%20Images/show-new-users-en.png?raw=true" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/show-new-users-en.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
   <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
