@@ -106,7 +106,7 @@
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next.<br/><br/>Note: To see these updates, please ensure the BMA or the Trainer App is up to date.
+We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next.<br/><br/>Note: To see these updates, please ensure the BMA and/or the Trainer App is up to date.
  <br/>
  <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -121,7 +121,8 @@ We’ve improved Genius compatibility with the Matrix Aura (remeasured) and Matr
 <li>Matrix Go Series (10/11) (for EU) </li>
 </ul>
  <br/>
-    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-neu.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-matrix-compatible.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <p><em>This is a visual example only. All Matrix Aura models (33/38) and Matrix Go Series models (10/11) are included.</em></p>
   <br/>
   <h2>Genius for Trainers: Location-based equipment categories</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
@@ -130,7 +131,7 @@ Genius now only shows excluded equipment categories that are relevant to your gy
  <br/> <br/>
 This means less manual editing, fewer errors, and greater efficiency in creating training plans – especially helpful for gyms with multiple locations and different equipment setups.
  <br/><br/>
-  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/location%20picker.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-summary-page.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
   <h2>Coming soon (4-6 weeks): Adjustable training plans</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
@@ -138,7 +139,7 @@ Personal trainers and members will soon be able to fine-tune the mix of strength
  <br/> <br/>
 Behind the scenes, Genius smartly adjusts weekly workout splits and muscle focus based on each member’s goals and recent activity, keeping plans balanced, personalized, and effective over time.
  <br/><br/>
-    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-wellpass.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-adjustable-goals.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
     <h2>Coming soon (4-6 weeks): AI-powered suggestions</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
@@ -148,7 +149,7 @@ Genius will automatically suggest weights, sets, reps, and rest times for exerci
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
   <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-If you have any questions or feedback, feel free to contact us. We will keep you informed about further improvements in the future.<br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Send Feedback</a>
+If you have any questions or feedback, feel free to contact us. <br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Send Feedback</a>
 <br/>    We will keep you informed about further improvements in the future.<br/>
 <br/>Your EGYM Team
 </p>
