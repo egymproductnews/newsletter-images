@@ -6,7 +6,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Business Suite Newsletter</title>
+<title>Genius Newsletter</title>
 <style>
     body {
       margin: 0;
@@ -100,62 +100,56 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>EGYM Business Suite gets a fresh new look!</h1>
-  <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Login to see what's new</a>
+  <h1>EGYM Genius – Here's What's New!</h1>
 <img alt="Header Image" class="header-image" src="https://de.egym.com/sites/default/files/2025-05/HeroMedium_LP_GENIUS_EN_mobilex2.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-    <h2>A more intuitive way to work</h2>
-Optimized for operational efficiency, navigation is now cleaner, items are easier to find, and switching between locations is faster.
-With a modern layout free of distractions, you’ll find what you need with ease.
+We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next.<br/><br/>Note: To see these updates, please ensure the BMA or the Trainer App is up to date.
  <br/>
  <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-  <h2>What's new</h2>
-    <h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Navigation </h3>
+  <h2>Improved EGYM Genius compatibility with Matrix equipment</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We’ve simplified the navigation, upgraded icons, and refined fonts and colors.
-Navigation items stand out immediately, helping you work more efficiently.
-
-
- <br/><br/>
+We’ve improved Genius compatibility with the Matrix Aura (remeasured) and Matrix Go series. Genius now delivers even more precise weight predictions, machine settings and correct increments within training plans — helping your members work out smarter and more effectively.
+<h4>New compatible vendor lines:</h4>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Matrix Aura (33/38) remeasured (for EU and US [imperial]) </li>
+<li>Matrix Go Series (10/11) (for EU) </li>
+</ul>
+ <br/>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-neu.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
-<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Location Picker </h3>
+  <h2>Genius for Trainers: Location-based equipment categories</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-The smart Location Picker sits at the very top of your page, so you always know which location you're working in. It shows all your locations in a clear, alphabetical list, adapts to any name length, and thanks to its powerful search, you'll find the right location instantly.
+We’ve optimized the summary page of personalized training plans in the Trainer App.
+Genius now only shows excluded equipment categories that are relevant to your gym location.
+ <br/> <br/>
+This means less manual editing, fewer errors, and greater efficiency in creating training plans – especially helpful for gyms with multiple locations and different equipment setups.
  <br/><br/>
   <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/location%20picker.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
-    <h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Wellpass </h3>
+  <h2>Coming soon (4-6 weeks): Adjustable training plans</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Wellpass now has its own dedicated space, giving you a clear distinction between managing EGYM and Wellpass. Everything remains in one place, now better structured to support your operations.
-  <br/><br/>
- This update is visible only to Wellpass partners.
+Personal trainers and members will soon be able to fine-tune the mix of strength, cardio, and flexibility in each personalized training plan – directly in the Trainer and Member App, respectively!
+ <br/> <br/>
+Behind the scenes, Genius smartly adjusts weekly workout splits and muscle focus based on each member’s goals and recent activity, keeping plans balanced, personalized, and effective over time.
  <br/><br/>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-wellpass.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
+    <h2>Coming soon (4-6 weeks): AI-powered suggestions</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Genius will automatically suggest weights, sets, reps, and rest times for exercises that PTs manually add or edit. This helps them create high-quality, science-based training plans faster, saves time, and improves the workout experience for your members.
+ <br/><br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-<h2>Your complete EAP toolkit</h2>
-<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
-<li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li>
-<li><a href="https://drive.google.com/drive/folders/1WNXjN2xKgCLwPK8XFNB5NjEO3qXGyEPE" >Analytics Guide</a></li>
-<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Share Feedback</a></li>
-</ul>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
-</table>
-  <h2>Thanks to everyone who joined a feedback call!</h2>
   <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Your input is already influencing upcoming improvements!
-If you haven’t had a chance yet, there are still slots available.
-Feel free to book a call and share your experience.<br/>   <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0tzXs8R_5vRzm9RdovSczYIuzO6Yn93zfkKckgQ6xoZ60ppX2tiwvSlC1XvhnxXGePIdUmRXYr" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Book a feedback call</a><br/>More updates are coming soon.<br/>
+If you have any questions or feedback, feel free to contact us. We will keep you informed about further improvements in the future.<br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Send Feedback</a>
+<br/>    We will keep you informed about further improvements in the future.<br/>
 <br/>Your EGYM Team
 </p>
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -163,8 +157,7 @@ Feel free to book a call and share your experience.<br/>   <a href="https://cale
 </table>
 <div class="footer">
  <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
-  You are receiving this email because you are part of the EGYM Business Suite Early Access Program.
-If you have any questions, please reach out to your Customer Success Manager.<br/><br/>
+You are receiving this email because you are part of the EGYM Genius mailing list. If you have any questions, please reach out to your Customer Success Manager.<br/><br/>
  <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
   EGYM SE, Einsteinstraße 172, 81677 München<br/>
       Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
