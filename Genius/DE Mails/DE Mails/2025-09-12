@@ -1,0 +1,171 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Genius Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>EGYM Genius – Das ist neu!</h1>
+<img alt="Header Image" class="header-image" src="https://de.egym.com/sites/default/files/2025-05/HeroMedium_LP_GENIUS_EN_mobilex2.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+Wir freuen uns, dir die neuesten Verbesserungen von EGYM Genius vorzustellen. Hier ist ein kurzer Überblick darüber, was sich seit dem letzten Update geändert hat – und ein kleiner Ausblick auf das, was als Nächstes kommt.<br/><br/>Bitte beachte: Um das Update sehen zu können, müssen die BMA oder die Trainer App auf dem neuesten Stand sein.
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Verbesserte EGYM Genius-Kompatibilität mit den Geräten von Matrix</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wir haben die Kompatibilität von EGYM Genius mit der Matrix Aura (remeasured) und der Matrix Go Serie verbessert. Genius liefert jetzt noch präzisere Gewichtsempfehlungen und Geräteeinstellungen – damit eure Mitglieder noch smarter und effektiver trainieren können.
+<h4>Neue kompatible Geräte-Serien:</h4>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li>Matrix Aura (33/38) remeasured (für EU and US [imperial])   </li>
+<li>Matrix Go Series (10/11) (für EU)</li>
+</ul>
+ <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-matrix-compatible.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <p><em>Dies ist nur ein visuelles Beispiel. Alle Matrix Aura Modelle (33/38) und Matrix Go Series Modelle (10/11) sind enthalten.</em></p>
+  <br/>
+  <h2>Genius für Trainer: standortbasierte Gerätekategorien
+</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wir haben die Übersichtsseite für personalisierte Trainingspläne in der Trainer-App verbessert. Genius zeigt jetzt nur noch ausgeschlossene Gerätekategorien an, die für den jeweiligen Standort deines Studios relevant sind.
+ <br/> <br/>
+Das bedeutet weniger manuelle Bearbeitung, weniger Fehler und mehr Effizienz bei der Erstellung von Trainingsplänen – besonders hilfreich für Studios mit mehreren Standorten und unterschiedlichen Setups.
+ <br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-summary-page.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+  <h2>Demnächst verfügbar (in 4–6 Wochen): anpassbare Trainingspläne</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Schon bald können Trainer und Mitglieder die Zusammensetzung von Kraft-, Cardio- und Mobilitätstraining in jedem personalisierten Trainingsplan direkt in der Trainer- bzw. Mitglieder-App genauestens anpassen.
+ <br/> <br/>
+Im Hintergrund aktualisiert Genius die wöchentlichen Trainingseinheiten und den Muskel-Fokus – basierend auf den Zielen und der aktuellen Aktivität jedes Mitglieds. So bleiben die Pläne ausgewogen, personalisiert und effektiv.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-adjustable-goals.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h2>Demnächst verfügbar (in 4–6 Wochen): KI-Vorschläge für Gewichte, Sätze, Wiederholungen und Pausenzeiten</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Genius kann künftig automatisch Vorschläge für Gewichte, Sätze, Wiederholungen und Pausenzeiten machen – für Übungen, die Trainer manuell hinzufügen oder bearbeiten. Das hilft deinen Trainern, schneller qualitativ hochwertige und wissenschaftlich fundierte Trainingspläne zu erstellen, spart Zeit und verbessert das Trainingserlebnis deiner Mitglieder.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-ai-powered-suggestions-rep.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wenn du Fragen oder Feedback hast, wende dich gerne an unser Team. 
+
+ <br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Feedback senden</a>
+<br/>Wir halten dich über weitere Verbesserungen auf dem Laufenden.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+Du erhältst diese E-Mail, weil du Teil des EGYM Genius-Verteilers bist. Wenn du Fragen hast, wende dich gerne direkt an deinen Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
