@@ -1,0 +1,170 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>EGYM Business Suite im neuen Look – jetzt live!</h1>
+  <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Jetzt einloggen</a>
+<img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/email-header-egym-business_suite.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+    <h2>Intuitiv und effizient arbeiten</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Optimiert für maximale Effizienz: Die Navigation ist jetzt übersichtlicher, Sidebar-Menüs lassen sich leichter finden und der Wechsel zwischen Standorten funktioniert schneller. Dank eines modernen, ablenkungsfreien Layouts findest du alles, was du brauchst – schnell und mühelos!
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Das ist neu!</h2>
+    <h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Navigation</h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wir haben die Navigation vereinfacht, die Icons überarbeitet und Schriftarten sowie Farben verfeinert. Navigationsmenüs sind jetzt klarer erkennbar, sodass du schneller findest, was du brauchst – für ein effizienteres Arbeiten!
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/DE%20Mails/DE%20Images/navigation-new-design-eap-news-de.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Location Picker</h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Der smarte Location Picker befindet sich ganz oben auf deiner Seite und passt sich flexibel an jede Namenslänge an – so weißt du immer, in welchem Standort du gerade arbeitest.
+Alle deine Standorte werden in einer übersichtlichen, alphabetisch sortierten Liste angezeigt, sodass du schnell den richtigen findest und nahtlos zwischen Studios wechseln kannst.
+ <br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/DE%20Mails/DE%20Images/location-picker-eap-news-de.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Wellpass </h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wellpass hat jetzt einen eigenen Bereich innerhalb der EGYM Business Suite. So kannst du EGYM und Wellpass klar voneinander trennen und dennoch alles zentral verwalten.
+Die neue Struktur unterstützt dich dabei, deine Abläufe noch besser zu organisieren.
+  <br/><br/>
+  <em>Hinweis: Dieses Update ist ausschließlich für Wellpass-Partner sichtbar.</em>
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/DE%20Mails/DE%20Images/navigation-wellpass-eap-news-de.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>Dein komplettes EAP-Toolkit</h2>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li>
+<li><a href="https://drive.google.com/file/d/1SPpKaduDne-sKu6E2dXOP6jmpy9HqNs1/view?usp=sharing" >Leitfaden für EGYM Business Suite Analytics </a></li>
+<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Feedback geben</a></li>
+</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Erlebe es selbst!</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Logge dich ein und erlebe die Neuerungen direkt selbst.
+
+<br/>    <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Login</a><br/>Weitere Updates folgen in Kürze.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+  Du erhältst diese E-Mail, weil du Teil des Early Access Programms der EGYM Business Suite bist. Wenn du Fragen hast, wende dich bitte an deinen Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
