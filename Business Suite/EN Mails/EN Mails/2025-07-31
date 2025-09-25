@@ -33,13 +33,13 @@
     h1 {
       font-size: 40px;
       color: #160707;
-      margin: 0 0 20px;
+      margin: 0 0 10px;
       padding: 0;
       font-weight: bold;
     }
 
     h2 {
-      font-size: 24px;
+      font-size: 26px;
       color: #160707;
       margin: 0 0 10px;
       padding: 0;
@@ -100,59 +100,44 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>EGYM Business Suite - Your EAP update!</h1>
+  <h1>EGYM Business Suite gets a fresh new look!</h1>
+  <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Login to see what's new</a>
 <img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/email-header-egym-business_suite.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-   It’s been a few weeks since the EAP started, and we’d like to share the latest updates. Here’s what’s been improved so far, and what you can expect next. <br/>
-      <h2>You're first. Take advantage.</h2>
-  <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
-As early adopters, you have exclusive access to the new EGYM Business Suite. The platform is now yours - use your data, gain insights, stay ahead! <br/> <br/> With the EGYM Business Suite, you can: 
-   <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
-<li> See who your EGYM members are and how they train.</li>
-<li>Create trainer tasks and track team productivity.</li>
-<li>Make smart, data-driven decisions to tailor your offerings and boost your marketing.</li>
-  </ul> 
-    <p style="font-size:14px; color:#160707; margin:0 0 10px;">   
-  Know your members. Understand how they train. Optimize what you offer. 
-      <br/><br/>
+    <h2>A more intuitive way to work</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Optimized for operational efficiency, navigation is now cleaner, items are easier to find, and switching between locations is faster.
+With a modern layout free of distractions, you’ll find what you need with ease.
+ <br/>
+ <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-<h2>Here's what has already been improved</h2>
-<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Member and Trainer Profiles - deeper insights, better control</h3>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Training days of members using EGYM</h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #fdf4ec; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;">Member Engagement</a> <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #eaf7f5; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;">Equipment Usage</a>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We've improved both member and trainer profile pages, giving you relevant member details and greater control over trainer roles. <br/><br/>
-<b>Members</b><br/>
-View your members’ contact details and contract end dates. If a contract is ending soon, you might consider reaching out via email or phone to stay connected. When a member is no longer active part of your club, you can easily remove them to keep your member list current and organized. <br/><br/>
-  <em>Go to: Members & staff > Members </em>
-  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/member-profile-page-bs.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
+See how many members train on your EGYM machines each month! Whether it’s Smart Strength, Fitness Hub, or Smart Flex — multiple logins on the same day still count as one member Training Day. Compare your total monthly check-ins with EGYM Training Days to get a clear view of how your equipment is being utilized. It’s a smarter way to measure equipment usage — and member engagement.
+ <br/><br/>
+   <em>Go to: Analytics > Engagement </em></p>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-new-design-eap-news.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
-<b>Trainers</b><br/>
-Trainer roles are fully flexible. You can grant or remove trainer rights at any time. Once trainer rights are removed, the account automatically returns to regular member status  - ideal for managing your coaching staff as roles change. <br/><br/>
-  <em>Go to: Members & staff > Staff </em></p>
-<img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/add-trainer.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 10px;"/>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
-</table>
-<h2 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Coming soon: Last visited location page is set as default upon return</h2>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Total open trainer tasks </h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #f0f0f0; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;">Staff Performance</a>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-  Managing multiple locations? <br/><br/>EGYM Business Suite now remembers the last location page you visited and automatically sets it as your default. Previously, upon every new login you'd land on top of an alphabetical list, regardless of where you left off. Now, when you log in, you’ll land directly on your last visited location page. 
-<br/><br/>
-This behavior stays consistent across all devices, giving you the flexibility to switch as needed.</p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
-</table>
-<h2>EAP What to expect next</h2>
-<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">You'll be first to know</h3>
-<p style="font-size:14px; color:#160707; margin:0 0 0px;">    
-Throughout the entire program, we’ll be releasing regular product updates. You’ll get early access to new features and improvements, and we’ll always keep you up to date - giving you the edge.<br/><br/>
-<h3 style="font-size:18px; color:#160707; margin:10px 0; font-weight:bold;">Talk to us and share your feedback </h3>
-<p style="font-size:14px; color:#160707; margin: 0 0 0px;">    
-Our mission is to make you successful. We want to understand your challenges and help you solve them. Your feedback will contribute to what gets built next. As part of the EAP, you'll soon have the chance to speak directly with our product team and share your thoughts.
-</p><br/>
+Monitor total open trainer tasks at the end of each month. Fewer open tasks may signal that your team is keeping up with follow-ups and member interactions. This may help keep your members engaged, well cared for, and more likely to stay longer.
+ <br/><br/>
+   <em>Go to: Analytics > Staff Performance</em></p>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-new-design-eap-news.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+<h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Trainer App: Manual Tasks vs. Task Chains</h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #f0f0f0; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;">Staff Performance</a> 
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+See how many tasks were created manually compared to those generated through automated Task Chain workflows. Task Chains guide trainers through standardized workflows, ensuring every member receives the same high-quality experience — a smarter way to ensure consistency. Do your trainers follow standard procedures? Now you know!
+ <br/><br/>
+   <em>Go to: Analytics > Staff Performance</em></p>    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/navigation-new-design-eap-news.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
@@ -165,11 +150,11 @@ Our mission is to make you successful. We want to understand your challenges and
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-  <h2>Share your feedback now!</h2>
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Got feedback or ideas? Share them on Productboard.<br/><br/>
-   <a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" class="cta-button">Share Feedback</a><br/>
-<br/>Thanks for being part of the team - more updates coming soon!<br/>
+  <h2>See it all for yourself!</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Log in and experience the improvements firsthand.
+
+<br/>    <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Login</a><br/>More updates are coming soon.<br/>
 <br/>Your EGYM Team
 </p>
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
