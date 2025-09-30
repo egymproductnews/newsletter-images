@@ -1,0 +1,177 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 26px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>New Analytics: Member engagement & Produktivität deiner Trainer</h1>
+  <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Jetzt einloggen</a>
+<a href="https://business-suite.egym.com/" target="_blank">
+  <img 
+    alt="Header Image" 
+    class="header-image" 
+    src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/email-header-egym-business_suite.png" 
+    style="width: 600px; height: auto; max-width: 100%; display: block; margin: auto;" 
+  />
+</a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+    <h2>New Analytics Insights</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Discover three new analytics insights to track member engagement, equipment usage, and trainer productivity. 
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Training days of members using EGYM</h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Member Engagement</a> <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Equipment Usage</a>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+See how many members use EGYM each month. Whether it’s Smart Strength, Fitness Hub, or Smart Flex — multiple logins on the same day still count as one member Training Day. Compare your total monthly check-ins with EGYM Training Days to get a clear picture of how your EGYM equipment is being utilized. It’s a smart way to measure the penetration of EGYM across your entire member base!
+ <br/><br/>
+   <em>Go to: Analytics > Engagement </em></p>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/training-days-of-members-using-egym.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Total open trainer tasks </h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;border: 1px solid #d15b05;">Staff Performance</a>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Monitor total open trainer tasks at the end of each month. Fewer open tasks may signal that your team is keeping up with follow-ups and member interactions. This may help keep your members engaged, well cared for, and more likely to stay longer.
+ <br/><br/>
+   <em>Go to: Analytics > Staff Performance</em></p>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/open-tasks-trainer-app-en.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+<h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Trainer App: Manual Tasks vs. Task Chains</h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #fffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Staff Performance</a> 
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+See how many tasks were created manually versus through Task chain templates. Task Chains guide your trainers with standardized workflows, giving every member the same high-quality experience. A higher share of Task chain tasks can mean your team is following your processes — saving time, improving efficiency, and ensuring consistency.
+ <br/><br/>
+   <em>Go to: Analytics > Staff Performance</em></p>    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/tasks-created-on-the-trainer-app.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<h2>Dein komplettes EAP-Toolkit</h2>
+<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
+<li><a href="https://business-suite.egym.com/" >EGYM Business Suite Login</a></li>
+<li><a href="https://drive.google.com/file/d/1SPpKaduDne-sKu6E2dXOP6jmpy9HqNs1/view?usp=sharing" >Leitfaden für EGYM Business Suite Analytics </a></li>
+<li><a href="https://portal.productboard.com/zj4wpi953vwapxzfmqttyuzd/tabs/20-business-suite" >Feedback geben</a></li>
+</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Erlebe es selbst!</h2>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Logge dich ein und erlebe die Neuerungen direkt selbst.
+
+<br/>    <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Login</a><br/>Weitere Updates folgen in Kürze.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+ Du erhältst diese E-Mail, weil du Teil des Early Access Programms der EGYM Business Suite bist. Wenn du Fragen hast, wende dich bitte an deinen Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
