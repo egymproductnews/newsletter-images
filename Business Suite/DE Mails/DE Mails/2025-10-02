@@ -100,7 +100,7 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>New Analytics: Member engagement & Produktivität deiner Trainer</h1>
+  <h1>Neue Analytics: Engagement & Produktivität deiner Trainer</h1>
   <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Jetzt einloggen</a>
 <a href="https://business-suite.egym.com/" target="_blank">
   <img 
@@ -113,32 +113,31 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-    <h2>New Analytics Insights</h2>
+    <h2>Neue Einblicke in deine Analytics</h2>
   <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Discover three new analytics insights to track member engagement, equipment usage, and trainer productivity. 
- <br/>
+Entdecke drei neue Datenpunkte, mit denen du das Engagement deiner Mitglieder, die Nutzung deiner Geräte und die Produktivität deines Teams verfolgen kannst. <br/>
  <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Training days of members using EGYM</h3>
-  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Member Engagement</a> <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Equipment Usage</a>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Trainingstage von Mitgliedern, die EGYM nutzen</h3>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Engagement</a> <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Produktnutzung</a>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-See how many members use EGYM each month. Whether it’s Smart Strength, Fitness Hub, or Smart Flex — multiple logins on the same day still count as one member Training Day. Compare your total monthly check-ins with EGYM Training Days to get a clear picture of how your EGYM equipment is being utilized. It’s a smart way to measure the penetration of EGYM across your entire member base!
+Sieh auf einen Blick, wie viele Mitglieder EGYM monatlich nutzen – egal ob Smart Strength, Fitness Hub oder Smart Flex. Mehrere Logins am selben Tag zählen dabei nur als ein Trainingstag. Vergleiche deine gesamten monatlichen Check-ins mit den EGYM-Trainingstagen, um ein klares Bild davon zu bekommen, wie intensiv deine EGYM-Geräte genutzt werden. Eine smarte Methode, um die EGYM-Durchdringung in deinem gesamten Mitgliederstamm zu messen!
  <br/><br/>
-   <em>Go to: Analytics > Engagement </em></p>
+   <em>Zu finden unter: Analysen > Engagement </em></p>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/training-days-of-members-using-egym.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
     <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Total open trainer tasks </h3>
-  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;border: 1px solid #d15b05;">Staff Performance</a>
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;border: 1px solid #d15b05;">Produktivität des Personals</a>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Monitor total open trainer tasks at the end of each month. Fewer open tasks may signal that your team is keeping up with follow-ups and member interactions. This may help keep your members engaged, well cared for, and more likely to stay longer.
+Behalte im Blick, wie viele offene Aufgaben dein Trainerteam am Monatsende hat. Weniger offene Aufgaben können ein Hinweis darauf sein, dass dein Team bei Follow-ups und Mitgliederinteraktionen gut aufgestellt ist. Das kann helfen, Mitglieder besser zu betreuen, ihre Bindung zu stärken und ihre Verweildauer zu erhöhen.
  <br/><br/>
    <em>Go to: Analytics > Staff Performance</em></p>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/open-tasks-trainer-app-en.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
 <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Trainer App: Manual Tasks vs. Task Chains</h3>
-  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #fffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Staff Performance</a> 
+  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #fffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Produktivität des Personals</a> 
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 See how many tasks were created manually versus through Task chain templates. Task Chains guide your trainers with standardized workflows, giving every member the same high-quality experience. A higher share of Task chain tasks can mean your team is following your processes — saving time, improving efficiency, and ensuring consistency.
  <br/><br/>
