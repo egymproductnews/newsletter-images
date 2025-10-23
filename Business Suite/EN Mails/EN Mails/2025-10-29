@@ -100,7 +100,7 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>Analytics: 2 new filter options & improved design</h1>
+  <h1>Analytics: New timeframe filters & improved design</h1>
   <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Log in to see what's new</a>
 <a href="https://business-suite.egym.com/" target="_blank">
   <img 
@@ -115,13 +115,13 @@
 </table>
     <h2>Less Complexity. More Clarity. Faster Decisions.</h2>
   <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-With two new filters and a clearer layout, you can instantly see the bigger picture, spot trends as they emerge, and access all the key data—without wasting time on complex dashboards.
+With two new timeframe filters and a clearer layout, you can instantly see the bigger picture, spot trends as they emerge, and access all the key data—faster than ever before.
  <br/>
  <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-      <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">New filter options: Last 12 months & Last calendar year </h3>
+      <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">New timeframe filters: Last 12 months & Last calendar year </h3>
   <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Analytics</a> 
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 In addition to 3- and 6-month views, you can now filter for the last 12 months and the last calendar year. See the bigger picture, spot seasonal trends, track long-term performance, and uncover patterns that shorter timeframes might miss.
@@ -142,16 +142,9 @@ With the new “Show new users” toggle, you can instantly see how many new mem
   <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;border: 1px solid #d15b05;">Analytics</a>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 See all the important details in a second.
-Hover over the charts you’re interested in, and get an instant overview—everything in one place, neatly structured and easy to understand.. <br/><br/>
+Hover over the charts you’re interested in, and get an instant overview—everything in one place, neatly structured and easy to understand. <br/><br/>
    <em>Go to: Analytics</em></p>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/tooltip.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
-  <br/>
-<h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Trainer App: Manual Tasks vs. Task Chains</h3>
-  <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #fffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Staff Performance</a> 
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">
-See how many tasks were created manually versus through Task chain templates. Task Chains guide your trainers with standardized workflows, giving every member the same high-quality experience. A higher share of Task chain tasks can mean your team is following your processes — saving time, improving efficiency, and ensuring consistency.
- <br/><br/>
-   <em>Go to: Analytics > Staff Performance</em></p>    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/tasks-created-on-the-trainer-app.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
