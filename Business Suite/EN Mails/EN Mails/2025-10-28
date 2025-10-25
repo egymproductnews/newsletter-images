@@ -124,7 +124,7 @@ With two new timeframe filters and a clearer layout, you can instantly see the b
       <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">New timeframe filters: Last 12 months & Last calendar year </h3>
   <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px; border: 1px solid #d15b05;">Analytics</a> 
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-In addition to 3- and 6-month views, you can now filter for the last 12 months and the last calendar year. See the bigger picture, spot seasonal trends, track long-term performance, and uncover patterns that shorter timeframes might miss.
+You can now filter by the last 12 months or the previous calendar year. See the bigger picture, spot seasonal trends, track long-term performance, and uncover patterns that shorter timeframes might miss.
 More context, better decisions—backed by more data!
  <br/><br/>
    <em>Go to: Analytics </em></p>
@@ -138,7 +138,7 @@ With the new “Show new users” toggle, you can instantly see how many new mem
    <em>Go to: Analytics > Active product users </em></p>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/monthly-new-user-toggle.gif" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px; border: 1px solid #D3D3D3"/>
   <br/>
-    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Smarter Tooltips: Key KPIs at a Glance</h3>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Smarter Tooltips: Key KPIs at a glance</h3>
   <a style="display: inline-block; padding: 3px 8px; font-size: 13px; background-color: #ffffff; color: #333; text-decoration: none; border-radius: 5px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 1px; margin-bottom: 10px;border: 1px solid #d15b05;">Analytics</a>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 See all the important details in a second.
