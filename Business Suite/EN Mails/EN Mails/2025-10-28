@@ -1,6 +1,6 @@
 
 
-<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+<div style="width:100%;max-width:600px;margin:auto;padding:0px"><div class="adM">
 </div>
 <html lang="en">
 <head>
@@ -100,7 +100,7 @@
 </head>
 <body>
 <div class="email-container">
-  <h1>Analytics: New timeframe filters & improved design</h1>
+  <h1 style="font-size:36px; color:#160707; margin:10px 0; font-weight:bold;">Analytics: New timeframe filters & improved design</h1>
   <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Log in to see what's new</a>
 <a href="https://business-suite.egym.com/" target="_blank">
   <img 
@@ -113,7 +113,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
-    <h2>Less Complexity. More Clarity. Faster Decisions.</h2>
+    <h2 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Less Complexity. More Clarity. Faster Decisions.</h2>
   <p style="font-size:14px; color:#160707; margin:0 0 10px;">
 With two new timeframe filters and a clearer layout, you can instantly see the bigger picture, spot trends as they emerge, and access all the key data—faster than ever before.
  <br/>
