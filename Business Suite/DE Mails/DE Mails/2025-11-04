@@ -1,0 +1,152 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 26px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1 style="font-size:36px; color:#160707; margin:10px 0; font-weight:bold;">Analysen: Neue Zeitfilter & verbessertes Design</h1>
+  <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Jetzt einloggen</a>
+<a href="https://business-suite.egym.com/" target="_blank">
+  <img 
+    alt="Header Image" 
+    class="header-image" 
+    src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/Email_Header_Business_Suite_Comms_EN.jpg" 
+    style="width: 600px; height: auto; max-width: 100%; display: block; margin: auto;" 
+  />
+</a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Lieber Early Adopter, <br/> <br/>
+vielen Dank, dass du am Early Access Programm teilgenommen hast! Dein Feedback und dein Einsatz beim Testen helfen uns enorm weiter!<br/><br/>
+<strong>Mit dem globalen Rollout ist das Early Access Programm offiziell beendet.</strong>
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Zufriedenheitsumfrage zur neuen EGYM Business Suite </h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Die EGYM Business Suite ist darauf ausgelegt, dir die Verwaltung deines gesamten EGYM Ökosystems zu erleichtern – mit klaren Analysen und Einblicken in die wichtigsten KPIs deiner Trainingsfläche. Damit du dich auf das konzentrieren kannst, was zählt: den Erfolg deines Studios.<br/><br/>
+Wir würden uns freuen, wenn du an unserer Zufriedenheitsumfrage zum Produkt teilnimmst. Das Ganze dauert nur 2 Minuten – und dein ehrliches Feedback hilft uns, die EGYM Business Suite noch gezielter auf deine Bedürfnisse weiterzuentwickeln.
+ <br/>
+   <a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Zur Umfrage</a>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+      <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">Wie geht’s weiter? </h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+  Der Zugang zur neuen EGYM Business Suite läuft jetzt über egym.com – oben rechts auf „Login“ klicken und „Studio-Betreiber“ auswählen. Alles andere bleibt wie gewohnt.
+  <br/>
+<a href="https://business-suite.egym.com/" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Login</a><br/>Vielen Dank für deine Unterstützung und bis bald.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+ Du erhältst diese E-Mail, weil du Teil des Early Access Programms der EGYM Business Suite bist. Wenn du Fragen hast, wende dich bitte an deinen Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
