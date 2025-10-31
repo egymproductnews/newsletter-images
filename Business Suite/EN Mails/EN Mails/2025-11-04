@@ -1,0 +1,151 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Business Suite Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 26px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1 style="font-size:36px; color:#160707; margin:10px 0; font-weight:bold; line-height:1.4;">EAP Wrap-Up: What did you think of the EGYM Business Suite?</h1>
+  <a href="https://egym.typeform.com/to/K2nDqAuu" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Start the survey</a>
+<a href="https://egym.typeform.com/to/K2nDqAuu" target="_blank">
+  <img 
+    alt="Header Image" 
+    class="header-image" 
+    src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/Email_Header_Business_Suite_Comms_EN.jpg" 
+    style="width: 600px; height: auto; max-width: 100%; display: block; margin: auto;" 
+  />
+</a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Dear Early Adopter, <br/> <br/>
+Thank you for joining the Early Access Program!
+Your commitment and feedback have helped us improve the functionality and overall experience. As the program wraps up,we’d love to know what you think.<br/><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+    <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold; line-height:1.4;">How satisfied are you with the new EGYM Business Suite?</h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Please take a few minutes to complete our anonymous Satisfaction Survey and help us continue improving.
+ <br/>
+   <a href="https://egym.typeform.com/to/K2nDqAuu" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 25px;">Start the survey</a>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+      <h3 style="font-size:24px; color:#160707; margin:10px 0; font-weight:bold;">What’s next? </h3>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+<strong>Now that the global rollout is underway, the Early Access Program has officially ended.</strong><br/><br/>
+  You can now access the new EGYM Business Suite via  <a href="https://egym.com/int">egym.com.</a> Click on “Login” in the top right corner and select “Operator.” Everything else remains the same.
+  <br/>  <br/>
+  Thank you for your active support! <br/>
+<br/>Your EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+ You’re receiving this email because you’re part of the Early Access Program for the EGYM Business Suite.
+If you have any questions, please contact your Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
