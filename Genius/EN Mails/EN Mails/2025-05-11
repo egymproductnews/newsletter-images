@@ -1,0 +1,178 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Genius Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>EGYM Genius – Here's What's New!</h1>
+<img alt="Header Image" class="header-image" src="https://de.egym.com/sites/default/files/2025-05/HeroMedium_LP_GENIUS_EN_mobilex2.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update.<br/><br/>Note: To see these updates, please ensure the BMA and/or the Trainer App is up to date.
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Adjustable Strength, Cardio, and Flexibility split in Genius fitness goals</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+You can now freely adjust the mix of the three core components—Strength, Cardio, and Flexibility—within the fitness goals. <br/> <br/>
+  Previously, the percentage composition of these components was fixed. Now, trainers and members can fine-tune the balance within allowed ranges to better match individual goals, fitness levels, and preferences. Whether it's goal prioritization, or other individual needs, trainers and members can now fine-tune their preferences — all without the need to pick a new fitness goal.
+ <br/>
+ <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-adjustable-goals.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <p><em>Adjusting the sliders changes how the total training time is distributed between strength, cardio, and flexibility exercises.</em></p>
+  <br/>
+  <h2>Genius for Trainers: New “Recalculate” Option in Genius Plans
+</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+The new Recalculate option allows trainers to instantly apply newly made adjustments to an existing training plan—keeping everything aligned with the member’s goals.
+ <br/> <br/>
+By clicking Recalculate, Genius updates sets, reps, weights, rest times, and machine settings based on the latest changes. The plan stays balanced, effective, and goal-oriented—without overwriting any manually added trainer prescriptions.
+ <br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-recalculate.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+  <h2>Genius for Members: Starting weight recommendations made clear!</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+The new Info Box in the Genius training plans explains how starting weights are determined—especially helpful for new members.
+ <br/> <br/>
+When a member begins a Genius plan without much workout history, Genius uses available data—like EGYM Smart Strength tests or previously tracked workouts—to estimate a starting weight. It’s a smart approximation based on limited data, but not yet fully personalized. As more workouts are tracked, Genius continuously fine-tunes the recommendations to better match the member’s actual fitness level.
+   <br/><br/>
+This update helps members understand the “why” behind the numbers—right from the start.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/info-box.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h2>Genius now supports Smart Strength Squat</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Got the new Smart Strength Squat? Add it to your Gym Inventory in EGYM Business Suite. Once added, Genius can include it in training plans—bringing smarter leg workouts to your members.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/m20.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h2>Inventory Setup Improvements</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Managing your gym inventory in EGYM Business Suite just got easier. We’ve removed generic icons and added specific images for functional and free weight equipment, making it simpler to visually identify items during setup. By removing the requirement to select vendor and vendor line, we’ve eliminated extra steps—speeding up the entire process of keeping your inventory up to date. With richer equipment data, Genius now has a broader selection to choose from—bringing more variety and personalization to every training plan.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/business-suite-inventory.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+    <br/>
+    <h2>41 new exercises</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Genius now features 41 new exercises, giving you more variety when creating training plans. With improved weight predictions and a richer exercise library, every Genius training plan is more accurate and more personal.
+ <br/><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+If you have any questions or feedback, feel free to contact us. <br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Send Feedback</a>
+<br/>    We will keep you informed about further improvements in the future.<br/>
+<br/>Your EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+You are receiving this email because you are part of the EGYM Genius mailing list. If you have any questions, please reach out to your Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
