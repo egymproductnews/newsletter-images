@@ -106,47 +106,56 @@
 <tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
 </table>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">    
-We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update, plus a sneak peek at what’s coming next.<br/><br/>Note: To see these updates, please ensure the BMA and/or the Trainer App is up to date.
+We’re excited to share the latest EGYM Genius improvements with you. Here’s a quick overview of what’s been improved since our last update.<br/><br/>Note: To see these updates, please ensure the BMA and/or the Trainer App is up to date.
  <br/>
  <br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
-  <h2>Improved EGYM Genius compatibility with Matrix equipment</h2>
+  <h2>Adjustable Strength, Cardio, and Flexibility split in Genius fitness goals</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We’ve improved Genius compatibility with the Matrix Aura (remeasured) and Matrix Go series. Genius now delivers even more precise weight predictions, and machine settings — helping your members work out smarter and more effectively.
-<h4>New compatible vendor lines:</h4>
-<ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
-<li>Matrix Aura (33/38) remeasured (for EU and US [imperial])  </li>
-<li>Matrix Go Series (10/11) (for EU)  </li>
-</ul>
+You can now freely adjust the mix of the three core components—Strength, Cardio, and Flexibility—within the fitness goals. <br/> <br/>
+  Previously, the percentage composition of these components was fixed. Now, trainers and members can fine-tune the balance within allowed ranges to better match individual goals, fitness levels, and preferences. Whether it's goal prioritization, or other individual needs, trainers and members can now fine-tune their preferences — all without the need to pick a new fitness goal.
  <br/>
-    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-matrix-compatible.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
-  <p><em>This is a visual example only. All Matrix Aura models (33/38) and Matrix Go Series models (10/11) are included.</em></p>
+ <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-adjustable-goals-fitness.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <p><em>Adjusting the sliders changes how the total training time is distributed between strength, cardio, and flexibility exercises.</em></p>
   <br/>
-  <h2>Genius for Trainers: Location-based equipment categories</h2>
+  <h2>Genius for Trainers: New “Recalculate” Option in Genius Plans
+</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We’ve optimized the summary page of personalized training plans in the Trainer App.
-Genius now only shows excluded equipment categories that are relevant to your gym location.
+The new Recalculate option allows trainers to instantly apply newly made adjustments to an existing training plan—keeping everything aligned with the member’s goals.
  <br/> <br/>
-This means less manual editing, fewer errors, and greater efficiency in creating training plans – especially helpful for gyms with multiple locations and different equipment setups.
+By clicking Recalculate, Genius updates sets, reps, weights, rest times, and machine settings based on the latest changes. The plan stays balanced, effective, and goal-oriented—without overwriting any manually added trainer prescriptions.
  <br/><br/>
-  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-summary-page.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-recalculate.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
-  <h2>Coming soon (4-6 weeks): Adjustable training plans</h2>
+  <h2>Genius for Members: Starting weight recommendations made clear!</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Personal trainers and members will soon be able to fine-tune the mix of strength, cardio, and flexibility in each personalized training plan – directly in the Trainer and Member App, respectively!
+The new Info Box in the Genius training plans explains how starting weights are determined—especially helpful for new members.
  <br/> <br/>
-Behind the scenes, Genius smartly adjusts weekly workout splits and muscle focus based on each member’s goals and recent activity, keeping plans balanced, personalized, and effective over time.
+When a member begins a Genius plan without much workout history, Genius uses available data—like EGYM Smart Strength tests or previously tracked workouts—to estimate a starting weight. It’s a smart approximation based on limited data, but not yet fully personalized. As more workouts are tracked, Genius continuously fine-tunes the recommendations to better match the member’s actual fitness level.
+   <br/><br/>
+This update helps members understand the “why” behind the numbers—right from the start.
  <br/><br/>
-    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-adjustable-goals.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/info-box.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
-    <h2>Coming soon (4-6 weeks): AI-powered suggestions</h2>
+    <h2>Genius now supports Smart Strength Squat</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Genius will automatically suggest weights, sets, reps, and rest times for exercises that PTs manually add or edit. This helps them create high-quality, science-based training plans faster, saves time, and improves the workout experience for your members.
+Got the new Smart Strength Squat? Add it to your Gym Inventory in EGYM Business Suite. Once added, Genius can include it in training plans—bringing smarter leg workouts to your members.
  <br/><br/>
-    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-trainer-app-ai-powered-suggestions-rep.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
-
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/m20.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h2>Inventory Setup Improvements</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Managing your gym inventory in EGYM Business Suite just got easier. We’ve removed generic icons and added specific images for functional and free weight equipment, making it simpler to visually identify items during setup. By removing the requirement to select vendor and vendor line, we’ve eliminated extra steps—speeding up the entire process of keeping your inventory up to date. With richer equipment data, Genius now has a broader selection to choose from—bringing more variety and personalization to every training plan.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/business-suite-inventory.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+    <br/>
+    <h2>41 new exercises</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Genius now features 41 new exercises, giving you more variety when creating training plans. With improved weight predictions and a richer exercise library, every Genius training plan is more accurate and more personal.
+ <br/><br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
 </table>
