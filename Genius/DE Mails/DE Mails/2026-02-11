@@ -1,0 +1,163 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Genius Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>EGYM Genius – Das ist neu!</h1>
+<img alt="Header Image" class="header-image" src="https://de.egym.com/sites/default/files/2025-05/HeroMedium_LP_GENIUS_EN_mobilex2.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+Wir freuen uns, dir die neuesten Verbesserungen von EGYM Genius vorzustellen. Hier ist ein kurzer Überblick darüber, was sich seit dem letzten Update geändert hat – und ein kleiner Ausblick auf das, was als Nächstes kommt.<br/><br/>Bitte beachte: Um das Update sehen zu können, müssen die BMA oder die Trainer App auf dem neuesten Stand sein.
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Trainingspläne: Optimiert und noch smarter</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Die Trainingspläne von Genius AI verteilen die Trainingseinheiten jetzt besser auf die verschiedenen Muskelgruppen. Die KI plant Übungen noch mehr entsprechend der persönlichen Ziele und dem Erfahrungslevel jedes Mitglieds. Für mehr Abwechslung und individuelle Trainingspläne, die das gesamte Studio-Inventar optimal einbeziehen. <br/>
+ <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-plans.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+  <h2>Genius für Mitglieder: Alternative Übungen</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wenn Mitglieder eine Übung ersetzen möchten, schlägt Genius jetzt passende Alternativen vor, die den gleichen Trainingsreiz setzen und das Ziel der Übung beibehalten. Übungen können sofort ausgetauscht werden, und der Trainingsplan passt sich innerhalb von Sekunden automatisch an.<br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-replace-exercise.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+  <h2>Genius für Trainer: Mehr Transparenz</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Die neue Benutzeroberfläche zeigt deutlich, wann ein Trainingsplan aktualisiert wird und wann der angepasste Plan fertiggestellt wurde. So wissen Trainer jederzeit, auf welchem Stand Genius ist, können sich auf die Mitglieder fokussieren und treten auf der Trainingsfläche professionell auf.
+ <br/> <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-ui-updating.gif" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h2>Übungsvideos: Lückenlose Übungsbibliothek</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Mit der optimierten Übungsbibliothek werden fehlende Anleitungsvideos automatisch aus der EGYM Master Library ergänzt, sofern ein Betreiber kein eigenes Video hinterlegt hat. So können Mitglieder immer aktuelle, qualitativ hochwertige Inhalte sehen. Die individuell hochgeladenen Videos bleiben natürlich weiterhin erhalten.
+ <br/><br/>
+      <h2>Studio-Inventar in der Business Suite: Schneller und präziser</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Die verbesserten Geräteabbildungen in den Kategorien Functional und Freihantel in der Business Suite bieten jetzt eine optimierte Verwaltung des Studio‑Inventars. Genius weiß nun exakt, welche Geräte im Studio verfügbar sind, sodass Trainingspläne perfekt zum Setup passen und Mitglieder ein abgestimmtes Trainingserlebnis erhalten.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://github.com/egymproductnews/newsletter-images/blob/main/Genius/EN%20Mails/EN%20Images/business-suite-inventory.png?raw=true" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Wenn du Fragen oder Feedback hast, wende dich gerne an unser Team. 
+
+ <br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Feedback senden</a>
+<br/>Wir halten dich über weitere Verbesserungen auf dem Laufenden.<br/>
+<br/>Dein EGYM Team
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+Du erhältst diese E-Mail, weil du Teil des EGYM Genius-Verteilers bist. Wenn du Fragen hast, wende dich gerne direkt an deinen Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
