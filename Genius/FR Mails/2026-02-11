@@ -1,0 +1,164 @@
+
+
+<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
+</div>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Genius Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 21px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+  
+      h4{
+      font-size: 18px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .divider {
+      border-top: 1px solid #dddddd;
+      margin: 20px 0;
+    }
+
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    .footer {
+      text-align: left;
+      font-size: 12px;
+      color: #999999;
+      margin-top: 10px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>EGYM Genius – Voici les nouveautés !</h1>
+<img alt="Header Image" class="header-image" src="https://de.egym.com/sites/default/files/2025-05/HeroMedium_LP_GENIUS_EN_mobilex2.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #ffffff; padding: 10px 0;"></td></tr>
+</table>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">    
+Nous sommes ravis de vous présenter les dernières fonctionnalités d’EGYM Genius.Voici un aperçu rapide des nouveautés depuis notre dernière mise à jour, ainsi qu’un aperçu de ce qui arrive bientôt.<br/><br/>Remarque : Pour voir ces mises à jour, veuillez vous assurer que la BMA et/ou l’application Trainer sont à jour.
+ <br/>
+ <br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <h2>Des plans d’entraînement plus équilibrés</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Nous avons amélioré notre moteur d’IA Genius. Genius répartit désormais plus efficacement le volume d’entraînement hebdomadaire entre les mouvements et les groupes musculaires, propose une plus grande variété d’exercices et s’aligne davantage sur les objectifs et le niveau d’expérience de chaque adhérent. <br/> <br/>
+Résultat : des plans d’entraînement personnalisés, de meilleure qualité, qui exploitent pleinement l’équipement disponible dans votre club. <br/>
+ <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-plans.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+  <h2>Genius pour les adhérents : remplacement intelligent des exercices</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Lorsqu’un adhérent souhaite remplacer un exercice dans une séance donnée, Genius recommande désormais des alternatives pertinentes qui préservent le stimulus d’entraînement et l’objectif visé. Les adhérents peuvent ainsi remplacer un exercice instantanément et obtenir en quelques secondes un plan d’entraînement adapté à leurs besoins.<br/><br/>
+  <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-replace-exercise.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+  <h2>Genius pour les coachs : plus de transparence</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Nous avons simplifié la mise à jour des programmes d’entraînement par EGYM Genius. L’interface indique désormais clairement lorsqu’un programme est en cours de mise à jour et lorsqu’il est prêt à être utilisé. Les coachs savent immédiatement où en est le programme et peuvent continuer à coacher sereinement sur le plateau.
+ <br/> <br/>
+    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-ui-updating.gif" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+  <br/>
+    <h2>Gestion optimisée des vidéos d’exercices personnalisées</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Si un club utilise sa propre bibliothèque d'exercices mais n'a pas de vidéo spécifique pour un exercice, le système affichera désormais automatiquement la dernière vidéo EGYM de haute qualité. Cela garantit un contenu média toujours pertinent et sans lacune, tout en priorisant les vidéos personnalisées du club.
+ <br/><br/>
+      <h2>Gestion de l’inventaire dans la Business Suite : plus rapide et plus précise</h2>
+<p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Les visuels améliorés des équipements dans les catégories Fonctionnel et Poids libres de la Business Suite permettent aux clubs de gérer plus rapidement et plus précisément l’inventaire du plateau d’entraînement. Genius identifie désormais avec exactitude les équipements disponibles, garantissant des programmes d’entraînement parfaitement adaptés à l’installation de la salle de sport et une expérience fluide pour les adhérents.
+ <br/><br/>
+    <img alt="preview Image" class="header-image" src="https://github.com/egymproductnews/newsletter-images/blob/main/Genius/EN%20Mails/EN%20Images/business-suite-inventory.png?raw=true" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+Vos retours comptent ! Si vous avez des questions ou suggestions, contactez-nous directement.
+ <br/>   <a href="mailto:product.feedback@egym.com?subject=EGYM%20Genius%20Feedback" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Contactez-nous</a>
+<br/>    Restez connectés : d’autres innovations arrivent très vite.<br/>
+<br/>Votre équipe EGYM
+</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</table>
+<div class="footer">
+ <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
+Vous recevez cet e-mail car vous faites partie de la liste de diffusion EGYM Genius.
+Si vous avez des questions, veuillez contacter votre Customer Success Manager.<br/><br/>
+ <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
+  EGYM SE, Einsteinstraße 172, 81677 München<br/>
+      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
+</div>
+</body></html></div>
