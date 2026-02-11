@@ -115,28 +115,28 @@ We’re excited to share the latest EGYM Genius improvements with you. Here’s 
   <h2>More balanced training plans
 </h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We have improved our Genius AI engine. Genius now distributes weekly training volume more effectively across movements and muscle groups, introduces greater exercise variety, and aligns more closely with each member’s goals and experience level. The result is higher‑quality, personalized training plans that make the most of your gym inventory. <br/>
+We have improved our Genius AI to distribute weekly training volume more effectively across movements and muscle groups. This introduces greater exercise variety and aligns more closely with each member’s goals and experience level. The result is higher‑quality, personalized training plans that make the most of your gym inventory.<br/>
  <br/>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-plans.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
   <h2>Genius for Members: Smart exercise replacement</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-If a member wants to replace an exercise for a given workout, Genius now recommends suitable alternatives that preserve the intended training stimulus and goal. Members can swap exercises instantly, getting a training plan adapted to their needs in seconds.<br/><br/>
+If a member wants to replace an exercise in a given workout, Genius now recommends suitable alternatives that still target the intended training stimulus and goal. Members can swap exercises instantly, getting a training plan adapted to their needs in seconds.<br/><br/>
   <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/egym-genius-replace-exercise.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
   <h2>Genius for Trainers: See when a plan is being updated</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-We’ve made the way EGYM Genius updates training plans more transparent. The updated UI now more clearly shows when a training plan is being updated and when it’s ready to use, so that Trainers always know what Genius is doing, and can continue coaching, stay focused and maintain a professional presence on the gym floor.
+We’ve made the way EGYM Genius updates training plans more transparent. The UI now more clearly shows when a training plan is being updated and when it’s ready to use, so that personal trainers always know what Genius is doing, and can continue coaching, stay focused, and maintain a professional presence on the gym floor.
  <br/> <br/>
     <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/genius-ui-updating.gif" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
   <br/>
-    <h2>Optimized Logic for Exercise Guidance Videos in Custom Exercise Libraries</h2>
+    <h2>Optimized logic for exercise guidance videos in custom exercise libraries</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-A new logic ensures that if an operator has a customized activity library but hasn't uploaded a specific video for an exercise, the system will automatically pull the latest high-quality video from the EGYM Master Library. This guarantees that members always see the most up-to-date, high-quality media for their training plan and eliminates "missing media" gaps while still respecting any custom content the club has intentionally uploaded.
+New logic ensures that if an operator has a customized activity library but hasn't uploaded a specific video for an exercise, the system will automatically pull the latest high-quality video from the EGYM Master Library. This guarantees that members always see the most up-to-date, high-quality media for their training plan and eliminates "missing media" gaps while still respecting any custom content the club has intentionally uploaded.
  <br/><br/>
-      <h2>Inventory Management in Business Suite: Faster and more accurate</h2>
+      <h2>Inventory management in Business Suite: Faster and more accurate</h2>
 <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-The enhanced equipment imagery for the Functional and Free Weight categories in the Business Suite enables operators to manage their training‑floor inventory faster and more accurately. Genius now knows exactly which equipment is available, ensuring training plans match your studio setup and members receive a seamless experience.
+The enhanced equipment imagery for the Functional and Free Weight categories in the Business Suite enables operators to manage their gym‑floor inventory faster and more accurately. Genius now knows exactly which equipment is available, ensuring training plans match your studio setup and members receive a seamless experience.
  <br/><br/>
     <img alt="preview Image" class="header-image" src="https://github.com/egymproductnews/newsletter-images/blob/main/Genius/EN%20Mails/EN%20Images/business-suite-inventory.png?raw=true" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
 
