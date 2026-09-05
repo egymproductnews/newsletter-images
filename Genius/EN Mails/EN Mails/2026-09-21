@@ -1,143 +1,101 @@
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#F2F2F2;padding:24px 0;border-collapse:collapse;">
+<tr>
+<td align="center">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;background-color:#FFFFFF;border-collapse:collapse;">
 
+<tr>
+<td>
+<img alt="Genius Chat" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/Genius_Chat_Header_EN.png" width="600" style="width:100%;max-width:600px;height:auto;display:block;border:0;"/>
+</td>
+</tr>
 
-<div style="width:100%;max-width:600px;margin:auto;background-color:#ffffff;padding:0px"><div class="adM">
-</div>
-<html lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Genius Newsletter</title>
-<style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
-      background-color: #ffffff;
-    }
+<tr>
+<td style="padding:32px 40px 8px 40px;">
+<span style="font-family:Arial,Helvetica,sans-serif;font-size:32px;line-height:1.2;font-weight:bold;color:#1A1A1A;">New: Genius Chat now available!</span>
+</td>
+</tr>
 
-    .email-container {
-      width: 100%;
-      max-width: 600px;
-      margin: auto;
-      background-color: #ffffff;
-      padding: 20px;
-    }
-
-    .header-image {
-      display: block;
-      max-width: 100%;
-      height: auto;
-      margin: 0 auto 0px;
-    }
-
-    h1 {
-      font-size: 40px;
-      color: #160707;
-      margin: 0 0 10px;
-      padding: 0;
-      font-weight: bold;
-    }
-
-    h2 {
-      font-size: 24px;
-      color: #160707;
-      margin: 0 0 10px;
-      padding: 0;
-      font-weight: bold;
-    }
-
-    h3 {
-      font-size: 21px;
-      color: #160707;
-      margin: 0 0 10px;
-      padding: 0;
-      font-weight: bold;
-    }
-  
-      h4{
-      font-size: 18px;
-      color: #160707;
-      margin: 0 0 10px;
-      padding: 0;
-      font-weight: bold;
-    }
-
-    p {
-      font-size: 14px;
-      color: #160707;
-      margin: 0 0 20px;
-    }
-
-    .divider {
-      border-top: 1px solid #dddddd;
-      margin: 20px 0;
-    }
-
-
-    .cta-button {
-      display: inline-block;
-      padding: 8px 14px;
-      font-size: 13px;
-      background-color: #d15b05;
-      color: #ffffff;
-      text-decoration: none;
-      border-radius: 25px;
-      font-weight: normal;
-      text-align: center;
-      white-space: nowrap;
-      margin-top: 15px;
-      margin-bottom: 15px;
-    }
-
-    .footer {
-      text-align: left;
-      font-size: 12px;
-      color: #999999;
-      margin-top: 10px;
-      padding: 0px;
-    }
-  </style>
-</head>
-<body>
-<div class="email-container">
-  <h1>New: Genius Chat now available!</h1>
-<img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/Genius_Chat_Header_EN.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
-
-   <br/>
-  <h2>Help members stay consistent</h2>
-<p style="font-size:14px; color:#160707; margin:0 0 10px;">
-
-When life happens, Genius Chat helps your members stay on track!<br/>
-
-  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-   Members can now adjust their training plans simply by describing what they need: <br/>
-    <ul style="font-size:14px; color:#160707; padding-left:20px; margin:10px 0;">
-<li><i>"No bodyweight exercises"</i></li>
-<li><i>"I prefer a full-body split"</i></li>
-<li><i>"I'm recovering from a shoulder injury"</i></li>
-</ul>
-    <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-      Whatever their goal, schedule, or circumstances, <b>Genius Chat adapts their training to fit.</b><br/><br/> 
-      <b>The result: </b>Members can keep training instead of having a reason to skip — helping them stay committed over time.
- <br/>
-          <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-  Read more about how to use Genius Chat here. <br/> 
-    <p style="font-size:14px; color:#160707; margin:0 0 10px;">
-Your EGYM Team
- <br/>
- <br/>
-    <img alt="preview Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/Genius_Chat_Testimonial_NA.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto; border-radius: 5px;"/>
-  <br/>
+<tr>
+<td style="padding:16px 40px 0 40px;">
+<p style="margin:0 0 12px 0;padding:0;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#C75300;">Help members stay consistent</p>
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1A1A1A;">
+When life happens, Genius Chat helps your members stay on track. Members can now adjust their training plans simply by describing what they need:
 </p>
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td style="border-top: 1px solid #dddddd; padding: 10px 0;"></td></tr>
+</td>
+</tr>
+
+<tr>
+<td style="padding:0 40px 16px 40px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#F2F2F2;border-collapse:collapse;border-radius: 6px;">
+<tr>
+<td style="padding:20px 24px;">
+<p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-style:italic;color:#1A1A1A;">&ldquo;No bodyweight exercises&rdquo;</p>
+<p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-style:italic;color:#1A1A1A;">&ldquo;I prefer a full-body split&rdquo;</p>
+<p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-style:italic;color:#1A1A1A;">&ldquo;I&rsquo;m recovering from a shoulder injury&rdquo;</p>
+</td>
+</tr>
 </table>
-<div class="footer">
- <p style="font-size:12px; color:#160707; margin:0 0 0 0px;">
-You are receiving this email because you are part of the EGYM Genius mailing list. If you have any questions, please reach out to your Customer Success Manager.<br/><br/>
- <img alt="logo"  src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" style="width: 100px; height: auto; max-width: 100%; height: auto; display: left; margin: auto; padding: 0 0px"/> <br/><br/>
-  EGYM SE, Einsteinstraße 172, 81677 München<br/>
-      Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
-      Gerichtsstand München | Amtsgericht München HRB 303509 | USt.-Id. DE275313632</p>
-</div>
-</body></html></div>
+</td>
+</tr>
+
+<tr>
+<td style="padding:0 40px 8px 40px;">
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1A1A1A;">
+Whatever their goal, schedule, or circumstances, <strong>Genius Chat adapts their training to fit.</strong>
+</p>
+<p style="margin:0 0 24px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1A1A1A;">
+<strong style="color:#C75300;">The result:</strong> members can keep training instead of having a reason to skip &mdash; helping them stay committed over time.
+</p>
+</td>
+</tr>
+
+<tr>
+<td align="left" style="padding:0 40px 32px 40px;">
+<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<tr>
+<td style="background-color:#C75300;padding:12px 28px;border-radius: 55px;">
+<a href="https://knowledge.egym.com/nb/genius/genius-for-members/genius-chat-beta/how-to-use-genius-chat-beta" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#FFFFFF;text-decoration:none;">Read more about Genius Chat</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="padding:0 40px 24px 40px;">
+<img alt="Testimonial" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EN%20Mails/EN%20Images/Genius_Chat_Testimonial_NA.png" width="520" style="width:100%;max-width:520px;height:auto;display:block;margin:0 auto;border:0;"/>
+</td>
+</tr>
+
+<tr>
+<td style="padding:0 40px 32px 40px;">
+<p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1A1A1A;">Your EGYM Team</p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:0 40px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<tr><td style="border-top:1px solid #DEDEDE;font-size:1px;line-height:1px;">&nbsp;</td></tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td style="padding:24px 40px 32px 40px;">
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#666666;">
+You are receiving this email because you are part of the EGYM Genius mailing list. If you have any questions, please reach out to your Customer Success Manager.
+</p>
+<img alt="EGYM" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_color_RGB.png" width="90" style="width:90px;height:auto;display:block;margin:0 0 16px 0;border:0;"/>
+<p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:1.6;color:#666666;">
+EGYM SE, Einsteinstra&szlig;e 172, 81677 M&uuml;nchen<br/>
+Vorstand: Patrick Meininger, Philipp Roesch-Schlanderer, Florian Sauter<br/>
+Gerichtsstand M&uuml;nchen | Amtsgericht M&uuml;nchen HRB 303509 | USt.-Id. DE275313632
+</p>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
