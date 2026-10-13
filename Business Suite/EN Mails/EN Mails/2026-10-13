@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Analytics Highlights Newsletter</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      background-color: #d15b05;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>Analytics highlights: Get insights faster</h1>
+  <img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/DE%20Mails/DE%20Images/Email_Header_Business_Suite_Screen_EN_Highlights_600X382.png" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+
+  <br/>
+  <br/>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+    You already have the data – now you have an even faster way to see what's happening in your club.
+    <br/><br/>
+    With analytics highlights, you'll get a clear summary of key changes, so you can quickly see what's improving, spot opportunities, and stay on top of trends, so you can focus your attention where it matters.
+    <br/><br/>
+    Log in to Business Suite and check out the new highlights today.
+  </p>
+
+  <a href="https://business-suite.egym.com" style="display: inline-block; padding: 8px 14px; font-size: 13px; background-color: #d15b05; color: #ffffff; text-decoration: none; border-radius: 25px; font-weight: normal; text-align: center; white-space: nowrap; margin-top: 15px; margin-bottom: 15px;">Log in to Business Suite</a>
+</div>
+</body>
+</html>
