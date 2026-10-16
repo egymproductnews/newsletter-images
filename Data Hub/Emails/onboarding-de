@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EGYM Data Hub Access</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f5f5f5;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#000000;border-collapse:collapse;">
+<tr>
+<td align="center">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;background-color:#000000;border-collapse:collapse;">
+
+<!-- Header Image -->
+<tr>
+<td style="padding:0;">
+<a href="https://integration-portal.egym.com/login" style="text-decoration:none;display:block;">
+<img alt="Data Hub" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Business%20Suite/EN%20Mails/EN%20Images/DataHubHeader.png" width="600" style="width:100%;max-width:600px;height:auto;display:block;border:0;"/>
+</a>
+</td>
+</tr>
+
+<!-- Greeting & Intro -->
+<tr>
+<td style="padding:32px 40px 12px 40px;">
+<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#FFFFFF;">Hallo,</p>
+<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#CCCCCC;">wir haben gute Neuigkeiten! Über das <strong style="color:#FFFFFF;">Integration Portal</strong> kannst du den Data Hub selbstständig einrichten und verwalten.</p>
+</td>
+</tr>
+
+<!-- Get Started Section - HIGHLIGHTED -->
+<tr>
+<td style="padding:0 40px 24px 40px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#1A1A1A;border-left:4px solid #C75300;border-collapse:collapse;border-radius:4px;overflow:hidden;">
+<tr>
+<td style="padding:28px 32px;">
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#FFFFFF;">Erste Schritte</p>
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">
+Um dich anzumelden, benötigst du ein EGYM Konto mit der E-Mail-Adresse, an die diese Nachricht gesendet wurde.
+</p>
+<ul style="margin:0 0 20px 0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
+<li style="margin:0 0 8px 0;line-height:1.6;">
+<strong style="color:#FFFFFF;">Du hast bereits ein EGYM-Konto?</strong> Melde dich einfach an.
+</li>
+<li style="margin:0;line-height:1.6;">
+<strong style="color:#FFFFFF;">Neu bei EGYM?</strong> <strong style="color:#FFFFFF;">Erstelle zunächst ein Konto.</strong>
+</li>
+</ul>
+<table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<tr>
+<td style="background-color:#C75300;padding:12px 28px;border-radius:20px;">
+<a href="https://integration-portal.egym.com/login" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#FFFFFF;text-decoration:none;">Zum Integration Portal</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<!-- Learn More -->
+<tr>
+<td style="padding:0 40px 24px 40px;">
+<p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">Eine Anleitung zur Nutzung des Integration Portals findest du <a href="https://knowledge.egym.com/en/egym-data-hub/use-the-integration-portal" style="color:#C75300;text-decoration:none;">hier</a>.</p>
+</td>
+</tr>
+
+<!-- Divider -->
+<tr>
+<td style="padding:0 40px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<tr><td style="border-top:1px solid #262626;font-size:1px;line-height:1px;">&nbsp;</td></tr>
+</table>
+</td>
+</tr>
+
+<!-- Setting up Data Hub - HIGHLIGHTED -->
+<tr>
+<td style="padding:24px 40px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#1A1A1A;border-left:4px solid #C75300;border-collapse:collapse;border-radius:4px;overflow:hidden;">
+<tr>
+<td style="padding:28px 32px;">
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#FFFFFF;">⚠️ Data Hub Einrichtung</p>
+<p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">Im Portal findest du alles, was du für die Einrichtung benötigst:</p>
+<ul style="margin:0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
+<li style="margin:0 0 16px 0;line-height:1.6;">
+<strong style="color:#FFFFFF;">API Keys:</strong> Die Daten werden pro Standort übertragen. Für jeden Standort ist ein eigener API Key erforderlich. Diese stehen für dich im Portal bereit.
+</li>
+<li style="margin:0 0 16px 0;line-height:1.6;">
+<strong style="color:#FFFFFF;">API Dokumentation:</strong> <a href="https://developer.egym.com/data-hub" style="color:#C75300;text-decoration:none;">Technische Dokumentation</a> für die Anbindung an den Data Hub.
+</li>
+<li style="margin:0 0 16px 0;line-height:1.6;">
+<strong style="color:#FFFFFF;">Zeitfenster für Datenabrufe & Compliance:</strong> Bitte lies den Abschnitt <a href="https://developer.egym.com/data-hub#before-you-start" style="color:#C75300;text-decoration:none;">"Before You Start"</a>, um zu erfahren, wann Datenabrufe eingeplant werden dürfen und wie du die Compliance-Anforderungen einhältst. <strong style="color:#FFFFFF;">Dieser Schritt ist erforderlich.</strong>
+</li>
+<li style="margin:0;line-height:1.6;">
+<strong style="color:#FFFFFF;">Data Hub Usage Policy:</strong> <a href="https://drive.google.com/file/d/1TEBoR-NgyYG27ecuy40_hz2gVdryxQry/view?usp=sharing" style="color:#C75300;text-decoration:none;">Hier</a> erfährst du, welche Daten du erhältst und wie diese genutzt werden dürfen.
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<!-- Help Section -->
+<tr>
+<td style="padding:24px 40px 0 40px;">
+<p style="margin:0 0 14px 0;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#FFFFFF;">Du brauchst Hilfe?</p>
+<p style="margin:0 0 28px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">
+Falls du dich nicht anmelden kannst oder weitere Fragen hast, kontaktiere bitte <a href="mailto:melissa.mohrhaeuser@egym.com" style="color:#C75300;text-decoration:none;">melissa.mohrhaeuser@egym.com</a>.
+</p>
+</td>
+</tr>
+
+<!-- Divider -->
+<tr>
+<td style="padding:0 40px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<tr><td style="border-top:1px solid #262626;font-size:1px;line-height:1px;">&nbsp;</td></tr>
+</table>
+</td>
+</tr>
+
+<!-- Closing -->
+<tr>
+<td style="padding:24px 40px 0 40px;">
+<p style="margin:0 0 8px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">Wir wünschen dir einen erfolgreichen Start!</p>
+<p style="margin:0 0 28px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">Dein EGYM Team</p>
+</td>
+</tr>
+
+<!-- Footer -->
+<tr>
+<td style="padding:0 40px 32px 40px;">
+<p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:1.6;color:#666666;">
+You are receiving this email because you are piloting with EGYM Data Hub. If you have any questions, please reach out to your Customer Success Manager.
+</p>
+<p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#666666;">
+© EGYM 2026 – EGYM SE, Einsteinstraße 172, 81677 München
+</p>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
