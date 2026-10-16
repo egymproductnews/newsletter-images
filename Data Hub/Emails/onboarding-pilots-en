@@ -85,7 +85,7 @@ To log in, you'll need an EGYM account registered with the email address where y
 <p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">You'll find everything you need in the Portal.</p>
 <ul style="margin:0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
 <li style="margin:0 0 16px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">API Keys:</strong> Data is transmitted on a per-location basis. Each location requires its own API key to transmit data.
+<strong style="color:#FFFFFF;">API Keys:</strong> Data is transmitted on a per-location basis. Each location requires its own API key to transmit data. You can manage your API keys in the portal.
 </li>
 <li style="margin:0 0 16px 0;line-height:1.6;">
 <strong style="color:#FFFFFF;">API documentation:</strong> <a href="https://developer.egym.com/data-hub" style="color:#C75300;text-decoration:none;">Technical documentation</a> you need to connect to the Data Hub.
