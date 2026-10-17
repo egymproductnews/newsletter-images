@@ -11,6 +11,13 @@
 <td align="center">
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;background-color:#000000;border-collapse:collapse;">
 
+<!-- EGYM Logo -->
+<tr>
+<td style="padding:20px 40px;">
+<img alt="EGYM" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_clear.png" width="120" style="width:120px;height:auto;display:block;border:0;"/>
+</td>
+</tr>
+
 <!-- Header Image -->
 <tr>
 <td style="padding:0;">
@@ -85,7 +92,7 @@ Um dich anzumelden, benötigst du ein EGYM Konto mit der E-Mail-Adresse, an die 
 <p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">Im Portal findest du alles, was du für die Einrichtung benötigst:</p>
 <ul style="margin:0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
 <li style="margin:0 0 16px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">API Keys:</strong> Die Daten werden pro Standort übertragen. Für jeden Standort ist ein eigener API Key erforderlich. Diese stehen für dich im Portal bereit.
+<strong style="color:#FFFFFF;">API Keys:</strong> Die Daten werden pro Standort übertragen. Für jeden Standort brauchst du einen eigenen API Key. Deine API Keys stehen im Portal bereit.
 </li>
 <li style="margin:0 0 16px 0;line-height:1.6;">
 <strong style="color:#FFFFFF;">API Dokumentation:</strong> <a href="https://developer.egym.com/data-hub" style="color:#C75300;text-decoration:none;">Technische Dokumentation</a> für die Anbindung an den Data Hub.
@@ -134,7 +141,7 @@ Falls du dich nicht anmelden kannst oder weitere Fragen hast, kontaktiere bitte 
 <tr>
 <td style="padding:0 40px 32px 40px;">
 <p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:1.6;color:#666666;">
-You are receiving this email because you are piloting with EGYM Data Hub. If you have any questions, please reach out to your Customer Success Manager.
+Du erhältst diese E-Mail, weil du am Pilotprogramm von EGYM Data Hub teilnimmst. Bei Fragen kontaktiere bitte deinen Customer Success Manager.
 </p>
 <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#666666;">
 © EGYM 2026 – EGYM SE, Einsteinstraße 172, 81677 München
