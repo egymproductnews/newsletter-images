@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Halloween Seasonal Coins Email</title>
+<style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica Now Text', Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+    }
+
+    .email-container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+
+    .header-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto 0px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #160707;
+      margin: 0 0 10px;
+      padding: 0;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      color: #160707;
+      margin: 0 0 20px;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <h1>Halloween coins are back at your studio👻</h1>
+  <img alt="Header Image" class="header-image" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Other/Season-Coints-Halloween_Email_Header.jpg" style="width: 600px; height: auto; max-width: 100%; height: auto; display: block; margin: auto;"/>
+
+  <br/>
+  <br/>
+  <p style="font-size:14px; color:#160707; margin:0 0 10px;">
+    Hi,
+    <br/><br/>
+    Spooky season has arrived. To celebrate, your Smart Strength and Fitness Hub equipment will feature Halloween-themed seasonal coins beginning on October 26.
+    <br/><br/>
+    The seasonal design will be automatically removed on November 3, no action is needed on your side.
+    <br/><br/>
+    Prefer to skip the Halloween look? Turn Seasonal Coins off anytime in Business Suite under EGYM Settings &gt; Seasonal Coins.
+    <br/><br/>
+    We hope you and your members enjoy the spooky vibes.
+    <br/><br/>
+    Your EGYM Team
+  </p>
+</div>
+</body>
+</html>
