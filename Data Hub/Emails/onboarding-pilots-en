@@ -11,6 +11,13 @@
 <td align="center">
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;background-color:#000000;border-collapse:collapse;">
 
+<!-- EGYM Logo -->
+<tr>
+<td style="padding:20px 40px;">
+<img alt="EGYM" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_clear.png" width="120" style="width:120px;height:auto;display:block;border:0;"/>
+</td>
+</tr>
+
 <!-- Header Image -->
 <tr>
 <td style="padding:0;">
@@ -23,8 +30,8 @@
 <!-- Greeting & Intro -->
 <tr>
 <td style="padding:32px 40px 12px 40px;">
-<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#FFFFFF;">Welcome to Data Hub,</p>
-<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#CCCCCC;">We've got good news! You can use the <strong style="color:#FFFFFF;">Integration Portal</strong> to set up and manage Data Hub yourself.</p>
+<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#FFFFFF;">Welcome to Data Hub!</p>
+<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#CCCCCC;">Good news! You can now use the <strong style="color:#FFFFFF;">Integration Portal</strong> to easily set up and manage your Data Hub.</p>
 </td>
 </tr>
 
@@ -40,10 +47,10 @@ To log in, you'll need an EGYM account registered with the email address where y
 </p>
 <ul style="margin:0 0 20px 0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
 <li style="margin:0 0 8px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">Already have an EGYM account?</strong> Log in.
+<strong style="color:#FFFFFF;">Already have an EGYM account?</strong> <a href="https://integration-portal.egym.com/login" style="color:#C75300;text-decoration:none;">Log in</a>.
 </li>
 <li style="margin:0;line-height:1.6;">
-<strong style="color:#FFFFFF;">New to EGYM?</strong> <strong style="color:#FFFFFF;">Create your account.</strong>
+<strong style="color:#FFFFFF;">New to EGYM?</strong> <a href="https://www.egym.com/mvc/signup" style="color:#C75300;text-decoration:none;">Create your account</a>.
 </li>
 </ul>
 <table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
@@ -85,16 +92,16 @@ To log in, you'll need an EGYM account registered with the email address where y
 <p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">You'll find everything you need in the Portal.</p>
 <ul style="margin:0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
 <li style="margin:0 0 16px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">API Keys:</strong> Data is transmitted on a per-location basis. Each location requires its own API key to transmit data. You can manage your API keys in the portal.
+<strong style="color:#FFFFFF;">API Keys:</strong> Manage API keys directly in the portal. Data is transmitted per location, so each location requires its own API key.
 </li>
 <li style="margin:0 0 16px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">API documentation:</strong> <a href="https://developer.egym.com/data-hub" style="color:#C75300;text-decoration:none;">Technical documentation</a> you need to connect to the Data Hub.
+<strong style="color:#FFFFFF;">API documentation:</strong> Access the <a href="https://developer.egym.com/data-hub" style="color:#C75300;text-decoration:none;">technical documentation</a> you need to connect to Data Hub.
 </li>
 <li style="margin:0 0 16px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">Scheduling window & compliance:</strong> Read the <a href="https://developer.egym.com/data-hub#before-you-start" style="color:#C75300;text-decoration:none;">"Before You Start"</a> section to know when to schedule and how to stay compliant. <strong style="color:#FFFFFF;">This step is mandatory.</strong>
+<strong style="color:#FFFFFF;">Scheduling window & compliance:</strong> Read the <a href="https://developer.egym.com/data-hub#before-you-start" style="color:#C75300;text-decoration:none;">"Before You Start"</a> section to stay compliant. <strong style="color:#FFFFFF;">This step is mandatory.</strong>
 </li>
 <li style="margin:0;line-height:1.6;">
-<strong style="color:#FFFFFF;">Data Hub Usage Policy:</strong> Read to understand the data you'll receive and how it can be used. <a href="https://drive.google.com/file/d/13cLQK0IYuh5ic2xewpkjeu3yVD6jTnwp/view?usp=drive_link" style="color:#C75300;text-decoration:none;">Download the usage policy here</a>.
+<strong style="color:#FFFFFF;">Data Hub Usage Policy:</strong> Understand the data you'll receive and how to use it. Download the usage policy <a href="https://drive.google.com/file/d/13cLQK0IYuh5ic2xewpkjeu3yVD6jTnwp/view?usp=drive_link" style="color:#C75300;text-decoration:none;">here</a>.
 </li>
 </ul>
 </td>
