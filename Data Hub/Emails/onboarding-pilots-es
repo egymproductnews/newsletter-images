@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EGYM Data Hub Access</title>
+    <title>Acceso a EGYM Data Hub</title>
 </head>
 <body style="margin:0;padding:0;background-color:#f5f5f5;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#000000;border-collapse:collapse;">
@@ -30,12 +30,12 @@
 <!-- Greeting & Intro -->
 <tr>
 <td style="padding:32px 40px 12px 40px;">
-<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#FFFFFF;">Bienvenido a Data Hub,</p>
+<p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#FFFFFF;">Bienvenido a Data Hub, [Name],</p>
 <p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#CCCCCC;">¡Tenemos buenas noticias! Ahora puedes usar el <strong style="color:#FFFFFF;">Portal de Integración</strong> para configurar y gestionar Data Hub por tu cuenta.</p>
 </td>
 </tr>
 
-<!-- Get Started Section - HIGHLIGHTED -->
+<!-- Primeros pasos Section - HIGHLIGHTED -->
 <tr>
 <td style="padding:0 40px 24px 40px;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#1A1A1A;border-left:4px solid #C75300;border-collapse:collapse;border-radius:4px;overflow:hidden;">
@@ -47,10 +47,10 @@ Para iniciar sesión, necesitarás una cuenta de EGYM registrada con la direcci�
 </p>
 <ul style="margin:0 0 20px 0;padding:0 0 0 20px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">
 <li style="margin:0 0 8px 0;line-height:1.6;">
-<strong style="color:#FFFFFF;">¿Ya tienes una cuenta de EGYM?</strong> Inicia sesión.
+<strong style="color:#FFFFFF;">¿Ya tienes una cuenta de EGYM?</strong> <a href="https://integration-portal.egym.com/login" style="color:#C75300;text-decoration:none;">Inicia sesión</a>.
 </li>
 <li style="margin:0;line-height:1.6;">
-<strong style="color:#FFFFFF;">¿Eres nuevo en EGYM?</strong> <strong style="color:#FFFFFF;">Crea tu cuenta.</strong>
+<strong style="color:#FFFFFF;">¿Eres nuevo en EGYM?</strong> <a href="https://www.egym.com/mvc/signup" style="color:#C75300;text-decoration:none;">Crea tu cuenta</a>.
 </li>
 </ul>
 <table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
@@ -82,7 +82,7 @@ Para iniciar sesión, necesitarás una cuenta de EGYM registrada con la direcci�
 </td>
 </tr>
 
-<!-- Setting up Data Hub - HIGHLIGHTED -->
+<!-- Configuración de Data Hub - HIGHLIGHTED -->
 <tr>
 <td style="padding:24px 40px;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#1A1A1A;border-left:4px solid #C75300;border-collapse:collapse;border-radius:4px;overflow:hidden;">
