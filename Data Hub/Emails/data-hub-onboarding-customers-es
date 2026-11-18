@@ -10,14 +10,14 @@
 <tr>
 <td align="center">
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;background-color:#000000;border-collapse:collapse;">
-
+ 
 <!-- EGYM Logo -->
 <tr>
 <td style="padding:20px 40px;">
 <img alt="EGYM" src="https://raw.githubusercontent.com/egymproductnews/newsletter-images/refs/heads/main/Genius/EGYM_logo_clear.png" width="120" style="width:120px;height:auto;display:block;border:0;"/>
 </td>
 </tr>
-
+ 
 <!-- Header Image -->
 <tr>
 <td style="padding:0;">
@@ -26,7 +26,7 @@
 </a>
 </td>
 </tr>
-
+ 
 <!-- Greeting & Intro -->
 <tr>
 <td style="padding:32px 40px 12px 40px;">
@@ -34,7 +34,7 @@
 <p style="margin:0 0 20px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#CCCCCC;">¡Tenemos buenas noticias! Ahora puedes usar el <strong style="color:#FFFFFF;">Portal de Integración</strong> para configurar y gestionar Data Hub por tu cuenta.</p>
 </td>
 </tr>
-
+ 
 <!-- Primeros pasos Section - HIGHLIGHTED -->
 <tr>
 <td style="padding:0 40px 24px 40px;">
@@ -65,14 +65,14 @@ Para iniciar sesión, necesitarás una cuenta de EGYM registrada con la direcci�
 </table>
 </td>
 </tr>
-
+ 
 <!-- Learn More -->
 <tr>
 <td style="padding:0 40px 24px 40px;">
 <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">Aprende a navegar por el Portal de Integración <a href="https://knowledge.egym.com/en/egym-data-hub/use-the-integration-portal" style="color:#C75300;text-decoration:none;">aquí</a>.</p>
 </td>
 </tr>
-
+ 
 <!-- Divider -->
 <tr>
 <td style="padding:0 40px;">
@@ -81,7 +81,7 @@ Para iniciar sesión, necesitarás una cuenta de EGYM registrada con la direcci�
 </table>
 </td>
 </tr>
-
+ 
 <!-- Configuración de Data Hub - HIGHLIGHTED -->
 <tr>
 <td style="padding:24px 40px;">
@@ -109,17 +109,17 @@ Para iniciar sesión, necesitarás una cuenta de EGYM registrada con la direcci�
 </table>
 </td>
 </tr>
-
+ 
 <!-- Help Section -->
 <tr>
 <td style="padding:24px 40px 0 40px;">
 <p style="margin:0 0 14px 0;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#FFFFFF;">¿Necesitas ayuda?</p>
 <p style="margin:0 0 28px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#CCCCCC;">
-Si no puedes iniciar sesión o tienes cualquier otra pregunta, ponte en contacto con <a href="mailto:melissa.mohrhaeuser@egym.com" style="color:#C75300;text-decoration:none;">melissa.mohrhaeuser@egym.com</a>.
+Si no puedes iniciar sesión o tienes cualquier otra pregunta, ponte en contacto con <a href="https://support.egym.com/s/contactsupport?language=es" style="color:#C75300;text-decoration:none;">EGYM Support</a>.
 </p>
 </td>
 </tr>
-
+ 
 <!-- Divider -->
 <tr>
 <td style="padding:0 40px;">
@@ -128,7 +128,7 @@ Si no puedes iniciar sesión o tienes cualquier otra pregunta, ponte en contacto
 </table>
 </td>
 </tr>
-
+ 
 <!-- Closing -->
 <tr>
 <td style="padding:24px 40px 0 40px;">
@@ -136,7 +136,7 @@ Si no puedes iniciar sesión o tienes cualquier otra pregunta, ponte en contacto
 <p style="margin:0 0 28px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#CCCCCC;">Tu equipo de EGYM</p>
 </td>
 </tr>
-
+ 
 <!-- Footer -->
 <tr>
 <td style="padding:0 40px 32px 40px;">
@@ -148,7 +148,7 @@ Recibes este correo electrónico porque estás participando en la prueba piloto 
 </p>
 </td>
 </tr>
-
+ 
 </table>
 </td>
 </tr>
